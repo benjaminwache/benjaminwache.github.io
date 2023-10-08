@@ -16,7 +16,7 @@ Hi! I am Benjamin Wache, an Economic Researcher in the International Economics s
 
 ## News
 
-- **[Nov. 2022]** I have started working as a Research Economist in the International Economics section at CPB Netherlands Bureau for Economic Policy Analysis.
+- **[Nov. 2022]** I have started a position as Research Economist in the International Economics section at CPB Netherlands Bureau for Economic Policy Analysis.
 
 {% include_relative _includes/papers.md %}
 
