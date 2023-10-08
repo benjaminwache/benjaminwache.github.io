@@ -4,6 +4,7 @@ main:
     authors: Benjamin Wache
     pdf: ./assets/files/telegraph_capital_allocation.pdf
     date: "2023-07-14"
+    image: ./assets/img/teaser_telegraph_capital_allocation.png
 
   - title: "Social Connectedness and the Geography of Venture Capital"
     authors: Benjamin Wache
@@ -11,8 +12,8 @@ main:
     date: "2023-09-20"
     image: ./assets/img/teaser_vc_social_connectedness.png
 
-
   - title: "The Impact of Venture Capital on Economic Growth"
     authors: Steven Poelhekke and Benjamin Wache
     pdf: ./assets/files/vc_growth.pdf
     date: "2023-10-08"
+    image: ./assets/img/teaser_vc_growth.png
