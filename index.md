@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi! I am Benjamin Wache, an Economic Researcher in the Macro & International Economics section of the [CPB Netherlands Bureau for Economic Policy Analysis (Centraal Planbureau)](https://www.cpb.nl/en). I am also a PhD candidate in Economics at the Vrije Universiteit Amsterdam and the Tinbergen Institute, under the supervision of [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/) and [Eric Bartelsman](https://tinbergen.nl/person/59/eric-bartelsman). I am affiliated to the [Research Area "International Finance and Macroeconomics"](https://www.ifw-kiel.de/de/institut/forschungszentren/internationale-finanzmaerkte-und-makrooekonomie/) at the Kiel Institute.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- International Economics
+- Macroeconomics
+- Financial Economics
+- Spatial Economics
+- Economic History
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2022]** I have started working as a Research Economist at CPB Netherlands Bureau for Economic Policy Analysis.
 
 {% include_relative _includes/publications.md %}
 
