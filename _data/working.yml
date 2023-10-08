@@ -1,9 +1,4 @@
 main:
 
-  - title: "Information Flows and Global Capital Allocation: Evidence from the Telegraph"
-    authors: <strong>Benjamin Wache</strong>
-    pdf: assets/files/telegraph_capital_allocation.pdf
-
-  - title: "Social Connectedness and the Geography of Venture Capital"
-    authors: <strong>Benjamin Wache</strong>
-    pdf: assets/files/vc_social_connectedness.pdf
+  - title: "Preparing for War: The Geopolitics of Communication Infrastructure"
+    authors: Christoph Trebesch, Michael Porcellacchia, and Benjamin Wache

@@ -3,11 +3,14 @@ main:
   - title: "Information Flows and Global Capital Allocation: Evidence from the Telegraph"
     authors: Benjamin Wache
     pdf: assets/files/telegraph_capital_allocation.pdf
+    date: "2023-07-14"
 
   - title: "Social Connectedness and the Geography of Venture Capital"
     authors: Benjamin Wache
     pdf: assets/files/vc_social_connectedness.pdf
+    date: "2023-09-20"
 
   - title: "The Impact of Venture Capital on Economic Growth"
     authors: Steven Poelhekke and Benjamin Wache
     pdf: assets/files/vc_growth.pdf
+    date: "2023-10-08"

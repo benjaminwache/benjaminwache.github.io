@@ -1,9 +1,9 @@
-<h2 id="working" style="margin: 2px 0px -15px;">Working Papers</h2>
+<h2 id="papers" style="margin: 2px 0px -15px;">Working Papers</h2>
 
-<div class="working">
+<div class="papers">
 <ol class="bibliography">
 
-{% for link in site.data.working.main %}
+{% for link in site.data.papers.main %}
 
 <li>
 <div class="pub-row">
@@ -19,6 +19,7 @@
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
+      <div class="date">{{ link.date }}</div>
       </div>
     <div class="links">
       {% if link.pdf %} 

@@ -1,4 +1,4 @@
-<h2 id="working" style="margin: 2px 0px -15px;">Working Papers</h2>
+<h2 id="working" style="margin: 2px 0px -15px;">In Progress</h2>
 
 <div class="working">
 <ol class="bibliography">
@@ -19,6 +19,7 @@
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
+      <div class="date">{{ link.date }}</div>
       </div>
     <div class="links">
       {% if link.pdf %} 
