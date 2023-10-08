@@ -20,6 +20,6 @@ Hi! I am Benjamin Wache, an Economic Researcher in the Macro & International Eco
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/working.md %}
+{% include_relative _includes/papers.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/working.md %}
