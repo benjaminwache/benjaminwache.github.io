@@ -31,7 +31,6 @@
       </div>
       <div class="periodical"><em>{{ link.conference }}</em>
       <div class="date">{{ link.date | date: "%B %d, %Y" }}</div>
-
       </div>
     <div class="links">
       {% if link.pdf %} 
