@@ -1,4 +1,9 @@
 main:
 
   - title: "Preparing for War: The Geopolitics of Communication Infrastructure"
-    authors: Christoph Trebesch, Michael Porcellacchia, and Benjamin Wache
+    authors: 
+      - name: "Christoph Trebesch"
+        url: "https://sites.google.com/site/christophtrebesch/"
+      - name: "Michael Porcellacchia"
+        url: "https://sites.google.com/view/michael-porcellacchia/home"
+      - name: "Benjamin Wache"
