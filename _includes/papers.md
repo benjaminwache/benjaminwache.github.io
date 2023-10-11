@@ -20,35 +20,36 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title" style="font-weight: bold;">{{ link.title }}</div>
       <div class="author">
-        {% assign only_benjamin = true %}
+        {% assign coauthors = "" %}
+        {% assign solo_author = true %}
+        {% assign coauthor_count = 0 %}
         {% for author in link.authors %}
           {% if author.name != "Benjamin Wache" %}
-            {% assign only_benjamin = false %}
-          {% endif %}
-        {% endfor %}        
-        {% if only_benjamin == false %}
-          (with 
-          {% for author in link.authors %}
-            {% if author.name != "Benjamin Wache" %}
-              {% if author.url %}
-                <a href="{{ author.url }}">{{ author.name }}</a>
+            {% assign solo_author = false %}
+            {% assign coauthor_count = coauthor_count | plus: 1 %}
+            {% if coauthors != "" %}
+              {% if coauthor_count > 2 %}
+                {% assign coauthors = coauthors | append: ", and " %}
               {% else %}
-                {{ author.name }}
+                {% assign coauthors = coauthors | append: " and " %}
               {% endif %}
-              {% if forloop.last == false %} 
-                {% if forloop.index == forloop.length | minus: 1 %} 
-                  and 
-                {% else %}
-                  , 
-                {% endif %}
-              {% endif %}
+            {% else %}
+              {% assign coauthors = " (with " %}
             {% endif %}
-          {% endfor %}
-          )
+            {% if author.url %}
+              {% assign coauthors = coauthors | append: "<a href='" | append: author.url | append: "'>" | append: author.name | append: "</a>" %}
+            {% else %}
+              {% assign coauthors = coauthors | append: author.name %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        {% if solo_author == false %}
+          {% assign coauthors = coauthors | append: ")" %}
+          {{ coauthors }}
         {% endif %}
       </div>
       <div class="periodical"><em>{{ link.conference }}</em>
-      <div class="date">{{ link.date | date: "%B %d, %Y" }}</div>
+      <div class="date"><em>Updated:</em> {{ link.date | date: "%B %d, %Y" }}</div>
       </div>
     <div class="links">
       {% if link.pdf %} 
