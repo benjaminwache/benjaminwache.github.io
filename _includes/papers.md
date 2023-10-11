@@ -20,14 +20,32 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title" style="font-weight: bold;">{{ link.title }}</div>
       <div class="author">
+        {% assign only_benjamin = true %}
         {% for author in link.authors %}
-          {% if author.url %}
-            <a href="{{ author.url }}">{{ author.name }}</a>
-          {% else %}
-            {{ author.name }}
+          {% if author.name != "Benjamin Wache" %}
+            {% assign only_benjamin = false %}
           {% endif %}
-          {% unless forloop.last %} and {% endunless %}
-        {% endfor %}
+        {% endfor %}        
+        {% if only_benjamin == false %}
+          (with 
+          {% for author in link.authors %}
+            {% if author.name != "Benjamin Wache" %}
+              {% if author.url %}
+                <a href="{{ author.url }}">{{ author.name }}</a>
+              {% else %}
+                {{ author.name }}
+              {% endif %}
+              {% if forloop.last == false %} 
+                {% if forloop.index == forloop.length | minus: 1 %} 
+                  and 
+                {% else %}
+                  , 
+                {% endif %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+          )
+        {% endif %}
       </div>
       <div class="periodical"><em>{{ link.conference }}</em>
       <div class="date">{{ link.date | date: "%B %d, %Y" }}</div>
