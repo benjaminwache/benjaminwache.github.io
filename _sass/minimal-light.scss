@@ -182,6 +182,13 @@ papertitle {
 
 }
 
+.custom-image-size {
+  /* CSS properties for your custom image size */
+  width: 200px; /* Adjust the width to your desired size */
+  height: auto; /* Maintain the aspect ratio */
+  /* Other styling properties as needed */
+}
+
 
   .image {
     border-radius: 0.35em;
