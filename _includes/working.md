@@ -9,7 +9,7 @@
           {% if link.image %}
             <img src="{{ link.image }}" class="teaser img-fluid z-depth-1 custom-image-size" style="object-fit: cover;">
           {% else %}
-            <div style="height:200px;"></div>
+            <div style="width:300px;"></div>
           {% endif %}
           {% if link.conference_short %} 
             <abbr class="badge">{{ link.conference_short }}</abbr>
@@ -54,9 +54,6 @@
           <div class="links">
             {% if link.pdf %} 
               <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-            {% endif %}
-            {% if link.slides %} 
-              <a href="{{ link.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
             {% endif %}
             {% if link.code %} 
               <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
