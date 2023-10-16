@@ -74,9 +74,6 @@
         </div>
       </div>
     </li>
-    .bibliography li {
-        margin-bottom: 20px; /* adjust as needed */
-    }
-    {% endfor %}
+    <br>
   </ol>
 </div>
