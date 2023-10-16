@@ -21,4 +21,4 @@ main:
       - name: "Benjamin Wache"
     pdf: ./assets/files/vc_growth.pdf
     date: "2023-10-08"
-    
+    image: ./assets/img/teaser_vc_growth.png
