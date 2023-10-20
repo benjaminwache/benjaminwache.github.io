@@ -7,3 +7,4 @@ main:
       - name: "Michael Porcellacchia"
         url: "https://sites.google.com/view/michael-porcellacchia/home"
       - name: "Benjamin Wache"
+    image: ./assets/img/teaser_empty.png
