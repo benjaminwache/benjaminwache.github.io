@@ -9,7 +9,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %}
-      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width:300px; object-fit: cover;">
+      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1 custom-image-size" style="object-fit: cover;">
     {% else %}
       <div style="width:300px;"></div>
     {% endif %}
