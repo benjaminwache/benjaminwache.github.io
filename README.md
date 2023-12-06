@@ -149,7 +149,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-151211894-1
+google_analytics: G-K37NXTCKM2
   ```
 ### Edit `index.md`
 

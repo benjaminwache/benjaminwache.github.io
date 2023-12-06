@@ -90,7 +90,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Google Analytics ID
 # Bitte entfernen Sie dies, wenn Sie Google Analytics nicht verwenden
-google_analytics: UA-151211894-1
+google_analytics: G-K37NXTCKM2
   ```
 ### Bearbeiten von `index.md`
 
