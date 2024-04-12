@@ -9,8 +9,9 @@ layout: homepage
 ## Research Interests
 
 - International Economics
+- Spatial Economics
+- Finance
 - Macroeconomics
-- Financial Economics
 
 {% include_relative _includes/papers.md %}
 
