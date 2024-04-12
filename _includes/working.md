@@ -5,7 +5,7 @@
     {% for link in site.data.working.main %}
     <li>
       <div class="pub-row">
-        <div class="col-sm-3 pub-row-image" style="position: relative;padding-right: 15px;padding-left: 15px;">
+        <div class="col-sm-3 pub-row-image" style="position: relative;padding-right: 15px;padding-left: 15px;flex-grow: 1;">
           {% if link.image %}
             <img src="{{ link.image }}" class="teaser img-fluid z-depth-1 custom-image-size" style="object-fit: cover;">
           {% else %}
@@ -15,7 +15,7 @@
             <abbr class="badge">{{ link.conference_short }}</abbr>
           {% endif %}
         </div>
-        <div class="col-sm-9 pub-row-text" style="position: relative;padding-right: 15px;padding-left: 20px; width: 600px;">
+        <div class="col-sm-9 pub-row-text" style="position: relative;padding-right: 15px;padding-left: 20px; flex-grow: 2;">
           <div class="title" style="font-weight: bold;">{{ link.title }}</div>
           <div class="author">
             {% assign coauthors = "" %}
