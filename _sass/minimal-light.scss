@@ -14,6 +14,20 @@
   line-height:2.5rem;
   margin-right:1rem}
 
+.pub-row .col-sm-3 {
+    flex-grow: 1;
+    position: relative;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  
+.pub-row .col-sm-9 {
+    flex-grow: 2;
+    position: relative;
+    padding-right: 15px;
+    padding-left: 20px;
+  }
+
 @media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
