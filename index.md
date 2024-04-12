@@ -8,7 +8,7 @@ layout: homepage
 
 ## Research Interests
 
-- International Economics
+- International Economics (primary)
 - Spatial Economics
 - Finance
 - Macroeconomics
