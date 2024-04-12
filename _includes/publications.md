@@ -7,7 +7,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 pub-row-image" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %}
       <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="height:200px; object-fit: cover;">
     {% else %}
@@ -17,7 +17,7 @@
       <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9 pub-row-text" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title" style="font-weight: bold;">{{ link.title }}</div>
       <div class="author">
         {% for author in link.authors %}
