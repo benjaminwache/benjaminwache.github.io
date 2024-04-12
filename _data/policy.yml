@@ -12,7 +12,7 @@ main:
         url: "https://www.cpb.nl/medewerkers/maarten-van-t-riet"
       - name: "Konstantin Sommer"
       - name: "Benjamin Wache"
-    url: "https://www.cpb.nl/en/geopolitical-decoupling-and-integration-scenarios-global-trade"
+    link.page: "https://www.cpb.nl/en/geopolitical-decoupling-and-integration-scenarios-global-trade"
     date: "2024-03-05"
     abstract: "CPB Publication (Dutch title: 'Geopolitieke ontkoppelings- en integratiescenario's voor de wereldhandel')"
 
@@ -29,7 +29,7 @@ main:
       - name: "Konstantin Sommer"
         url: "https://kosommer.github.io/"
       - name: "Benjamin Wache"
-    url: "https://www.cpb.nl/en/geopolitical-decoupling-and-integration-scenarios-global-trade"
+    link.page: "https://www.cpb.nl/en/geopolitical-decoupling-and-integration-scenarios-global-trade"
     date: "2024-02-13"
     abstract: "CPB Publication (Dutch title: 'Het belang van Nederlandse diensten in wereldwijde goederenproductie')"
 
@@ -40,7 +40,7 @@ main:
       - name: "Marco Ligthart"
         url: "https://www.cpb.nl/medewerkers/marco-ligthart"
       - name: "Benjamin Wache"
-    url: "https://www.cpb.nl/en/node/161208"
+    link.page: "https://www.cpb.nl/en/node/161208"
     date: "2023-08-29"
     abstract: "CPB Publication (English title: 'Re-exports drive rise in Dutch exports')"
 
@@ -57,6 +57,6 @@ main:
       - name: "Gerdien Meijerink"
         url: "https://www.cpb.nl/medewerkers/gerdien-meijerink"
       - name: "Benjamin Wache"
-    url: "https://www.cpb.nl/en/a-simulation-of-energy-prices-and-corporate-profits"
+    link.page: "https://www.cpb.nl/en/a-simulation-of-energy-prices-and-corporate-profits"
     date: "2023-04-20"
     abstract: "CPB Publication (Dutch title: 'Simulatie energieprijzen en bedrijfswinsten')"
