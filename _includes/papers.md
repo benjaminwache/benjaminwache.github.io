@@ -21,19 +21,29 @@
             {% assign coauthors = "" %}
             {% assign solo_author = true %}
             {% assign coauthor_count = 0 %}
+            {% assign total_coauthors = 0 %}
+            
+            {% for author in link.authors %}
+              {% if author.name != "Benjamin Wache" %}
+                {% assign total_coauthors = total_coauthors | plus: 1 %}
+              {% endif %}
+            {% endfor %}
+            
             {% for author in link.authors %}
               {% if author.name != "Benjamin Wache" %}
                 {% assign solo_author = false %}
                 {% assign coauthor_count = coauthor_count | plus: 1 %}
+                
                 {% if coauthors != "" %}
-                  {% if coauthor_count > 2 %}
+                  {% if coauthor_count == total_coauthors %}
                     {% assign coauthors = coauthors | append: ", and " %}
                   {% else %}
-                    {% assign coauthors = coauthors | append: " and " %}
+                    {% assign coauthors = coauthors | append: ", " %}
                   {% endif %}
                 {% else %}
                   {% assign coauthors = " (with " %}
                 {% endif %}
+                
                 {% if author.url %}
                   {% assign coauthors = coauthors | append: "<a href='" | append: author.url | append: "'>" | append: author.name | append: "</a>" %}
                 {% else %}
@@ -41,6 +51,7 @@
                 {% endif %}
               {% endif %}
             {% endfor %}
+            
             {% if solo_author == false %}
               {% assign coauthors = coauthors | append: ")" %}
               {{ coauthors }}
