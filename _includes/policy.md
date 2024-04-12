@@ -48,7 +48,7 @@
           </div>
           <div class="periodical"><em>{{ link.conference }}</em>
             {% if link.date %}
-              <div class="date"><em>Updated:</em> {{ link.date | date: "%B %d, %Y" }}</div>
+              <div class="date"><em></em> {{ link.date | date: "%B %d, %Y" }}</div>
             {% endif %}
           </div>
           <div class="links">
