@@ -1,0 +1,42 @@
+main:
+
+  - title: "Geopolitical Decoupling and Integration Scenarios for World Trade"
+    authors: 
+      - name: "S. Boeters"
+      - name: "M. M. Kütük"
+      - name: "G. Meijerink"
+      - name: "M. van 't Riet"
+      - name: "K. Sommer"
+    url: "https://www.cpb.nl/en/geopolitical-decoupling-and-integration-scenarios-global-trade"
+    date: "2024-03-05"
+    abstract: "CPB Publication (Dutch title: 'Geopolitieke ontkoppelings- en integratiescenario's voor de wereldhandel')"
+
+  - title: "The importance of Dutch service activities in global value chains"
+    authors: 
+      - name: "S. Boeters"
+      - name: "D. Freeman"
+      - name: "G. Meijerink"
+      - name: "M. van 't Riet"
+      - name: "K. Sommer"
+    url: "https://www.cpb.nl/en/geopolitical-decoupling-and-integration-scenarios-global-trade"
+    date: "2024-02-13"
+    abstract: "CPB Publication (Dutch title: 'Het belang van Nederlandse diensten in wereldwijde goederenproductie')"
+
+  - title: "Wederuitvoer motor achter stijging Nederlandse export"
+    authors: 
+      - name: "E. van der Wal"
+      - name: "M. Ligthart"
+    url: "https://www.cpb.nl/en/node/161208"
+    date: "2023-08-29"
+    abstract: "CPB Publication (English title: 'Re-exports drive rise in Dutch exports')"
+
+  - title: "A simulation of energy prices and corporate profits"
+    authors: 
+      - name: "B. Soederhuizen"
+      - name: "L. Bettendorf"
+      - name: "A. Elbourne"
+      - name: "B. van Stiphout-Kramer"
+      - name: "G. Meijerink"
+    url: "https://www.cpb.nl/en/a-simulation-of-energy-prices-and-corporate-profits"
+    date: "2023-04-20"
+    abstract: "CPB Publication (Dutch title: 'Simulatie energieprijzen en bedrijfswinsten')"
