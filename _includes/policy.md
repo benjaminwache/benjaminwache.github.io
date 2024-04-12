@@ -1,6 +1,6 @@
 <h2 id="policy" style="margin: 2px 0px 15px;">Policy Research</h2>
 
-<div class="publications">
+<div class="policy">
   <ol class="bibliography">
     {% for link in site.data.policy.main %}
     <li>
