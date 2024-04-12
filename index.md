@@ -16,3 +16,5 @@ layout: homepage
 {% include_relative _includes/papers.md %}
 
 {% include_relative _includes/working.md %}
+
+{% include_relative _includes/policy.md %}
