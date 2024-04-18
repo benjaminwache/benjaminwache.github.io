@@ -1,6 +1,7 @@
 main:
 
-  - title: "Geopolitical Decoupling and Integration Scenarios for World Trade"
+  - title_en: "Geopolitical Decoupling and Integration Scenarios for World Trade"
+    title_nl: "Geopolitieke ontkoppelings- en integratiescenario's voor de wereldhandel"
     authors: 
       - name: "Stefan Boeters"
         url: "https://www.cpb.nl/staff/stefan-boeters"
@@ -18,7 +19,8 @@ main:
     date: "2024-03-05"
     abstract: "CPB Publication (Dutch title: 'Geopolitieke ontkoppelings- en integratiescenario's voor de wereldhandel')"
 
-  - title: "The importance of Dutch service activities in global value chains"
+  - title_en: "The importance of Dutch service activities in global value chains"
+    title_nl: "Het belang van Nederlandse diensten in wereldwijde goederenproductie"
     authors: 
       - name: "Stefan Boeters"
         url: "https://www.cpb.nl/staff/stefan-boeters"
@@ -36,7 +38,7 @@ main:
     date: "2024-02-13"
     abstract: "CPB Publication (Dutch title: 'Het belang van Nederlandse diensten in wereldwijde goederenproductie')"
 
-  - title: "Wederuitvoer motor achter stijging Nederlandse export"
+  - title_nl: "Wederuitvoer motor achter stijging Nederlandse export"
     authors: 
       - name: "Eva van der Wal"
         url: "https://www.cpb.nl/staff/eva-van-der-wal"
@@ -48,7 +50,8 @@ main:
     date: "2023-08-29"
     abstract: "CPB Publication (English title: 'Re-exports drive rise in Dutch exports')"
 
-  - title: "A simulation of energy prices and corporate profits"
+  - title_en: "A simulation of energy prices and corporate profits"
+    title_nl: "Simulatie energieprijzen en bedrijfswinsten"
     authors: 
       - name: "Beau Soederhuizen"
         url: "https://sites.google.com/site/bsoederhuizen/"
