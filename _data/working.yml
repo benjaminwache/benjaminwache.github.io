@@ -22,11 +22,10 @@ main:
         url: "https://www.researchgate.net/profile/Michael-Polder"
       - name: "Benjamin Wache"
 
-- title:"Exporter Networks in the Netherlands"
+- title: "Exporter Networks in the Netherlands"
   authors:
       - name: "Mark van der Plaat"
         url: "https://www.cpb.nl/en/staff/mark-van-der-plaat"	
       - name: "Daan Freeman"
         url: "https://www.cpb.nl/staff/daan-freeman"
       - name: "Benjamin Wache"
-      
