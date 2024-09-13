@@ -7,3 +7,11 @@ main:
       - name: "Michael Porcellacchia"
         url: "https://sites.google.com/view/michael-porcellacchia/home"
       - name: "Benjamin Wache"
+
+  - title: "The (Geo-)Politics of Global Telecommunications Infrastructure"
+    authors: 
+      - name: "Christoph Trebesch"
+        url: "https://sites.google.com/site/christophtrebesch/"
+      - name: "Michael Porcellacchia"
+        url: "https://sites.google.com/view/michael-porcellacchia/home"
+      - name: "Benjamin Wache"
