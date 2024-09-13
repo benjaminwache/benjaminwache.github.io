@@ -21,7 +21,7 @@ main:
       - name: "Michael Polder"
         url: "https://www.researchgate.net/profile/Michael-Polder"
       - name: "Benjamin Wache"
-    pdf: "https://www.cpb.nl/en/geopolitical-decoupling-and-integration-scenarios-global-trade"
+    pdf: "assets/files/ETSG_slides_2024_firms_in_gvcs.pdf"
 
 - title:"Exporter Networks in the Netherlands"
   authors:
