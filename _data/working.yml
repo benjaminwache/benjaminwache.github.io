@@ -7,3 +7,27 @@ main:
       - name: "Michael Porcellacchia"
         url: "https://sites.google.com/view/michael-porcellacchia/home"
       - name: "Benjamin Wache"
+
+  - title: "Firm-Level Determinants of GVC Positioning and Span: Evidence from the Netherlands"
+    authors: 
+      - name: "Loe Franssen"
+        url: "https://www.researchgate.net/profile/Loe-Franssen"
+      - name: "Merve Mavus Kütük"
+        url: "https://www.cpb.nl/en/staff/merve-mavus-kutuk"	
+      - name: "Daan Freeman"
+        url: "https://www.cpb.nl/en/staff/daan-freeman"
+      - name: "Oscar Lemmers"
+        url: "https://www.researchgate.net/profile/Oscar-Lemmers"
+      - name: "Michael Polder"
+        url: "https://www.researchgate.net/profile/Michael-Polder"
+      - name: "Benjamin Wache"
+    pdf: "https://www.cpb.nl/en/geopolitical-decoupling-and-integration-scenarios-global-trade"
+
+- title:"Exporter Networks in the Netherlands"
+  authors:
+      - name: "Mark van der Plaat"
+        url: "https://www.cpb.nl/en/staff/mark-van-der-plaat"	
+      - name: "Daan Freeman"
+        url: "https://www.cpb.nl/staff/daan-freeman"
+      - name: "Benjamin Wache"
+      
