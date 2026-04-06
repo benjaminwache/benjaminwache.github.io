@@ -5,7 +5,7 @@ main:
       - name: "Steven Poelhekke"
         url: "https://sites.google.com/site/stevenpoelhekke/"
       - name: "Benjamin Wache"
-    conference: "Journal of Business Venturing, Volume 41, Issue 3, May 2026, 106588"
+    conference: "Journal of Business Venturing, Volume 41, Issue 3, May 2026"
     page: "https://www.sciencedirect.com/science/article/pii/S0883902626000182"
     abstract: "When venture capital (VC) investment flows into a local economy, does it yield economic activity beyond the receiving ventures? While a large literature studies the effect of VC investments on venture-level activity, its consequences for broader economic activity are less well understood. We study the effect of VC investment flows on destination county employment, wages, and venture creation, using a novel instrument based on the 'social connectedness' of counties to major non-local sources of VC investment. Using detailed data on investor-to-venture VC flows, we find substantial positive effects: using instrumental-variable estimates, each million dollars invested into a county yields approximately one new venture, 41 jobs, and seven million dollars in payroll. We also document positive spillovers across industries, particularly toward those supplying VC-backed ventures—thereby contributing to the resource munificence of the local economy and its entrepreneurial ecosystem."
     #image: ./assets/img/teaser_vc_growth.png
