@@ -1,12 +1,59 @@
 main:
 
+  - title_nl: "Arbeidsmarktonzekerheid in netwerken"
+    authors:
+      - name: "S. Vissers"
+      - name: "Benjamin Wache"
+    conference: CPB Publication
+    page: "https://www.cpb.nl/publicatie/arbeidsmarktonzekerheid-netwerken-hoe-risicos-zich-concentreren-sociale-kring"
+    date: "2025-12-09"
+
+  - title_en: "Dynamics, Productivity, and Innovation in the Dutch Economy"
+    title_nl: "Proces van creatieve destructie verzwakt in Nederland"
+    authors:
+      - name: "Y. Adema"
+      - name: "L. Bettendorf"
+      - name: "E. van Bezooijen"
+      - name: "D. Freeman"
+        url: "https://www.cpb.nl/en/staff/daan-freeman"
+      - name: "Benjamin Wache"
+    conference: CPB Publication
+    page: "https://www.cpb.nl/en/publication/dynamics-productivity-and-innovation-dutch-economy"
+    date: "2025-11-21"
+
+  - title_en: "Dutch Firms in International Production Chains"
+    title_nl: "Nederlandse bedrijven in internationale productieketens"
+    authors:
+      - name: "Merve Mavus Kütük"
+        url: "https://www.cpb.nl/en/staff/merve-mavus-kutuk"
+      - name: "Daan Freeman"
+        url: "https://www.cpb.nl/en/staff/daan-freeman"
+      - name: "Gerdien Meijerink"
+        url: "https://www.cpb.nl/staff/gerdien-meijerink"
+      - name: "A. Sharipova"
+      - name: "Benjamin Wache"
+    conference: CPB Publication
+    page: "https://www.cpb.nl/en/nederlandse-bedrijven-internationale-productieketens"
+    date: "2025-04-09"
+
+  - title_nl: "Productiviteitsvoordelen van exportnetwerken"
+    authors:
+      - name: "Daan Freeman"
+        url: "https://www.cpb.nl/en/staff/daan-freeman"
+      - name: "Mark van der Plaat"
+        url: "https://www.cpb.nl/en/staff/mark-van-der-plaat"
+      - name: "Benjamin Wache"
+    conference: CPB Publication
+    page: "https://www.cpb.nl/productiviteitsvoordelen-van-exportnetwerken"
+    date: "2024-10-29"
+
   - title_en: "Geopolitical Decoupling and Integration Scenarios for World Trade"
     title_nl: "Geopolitieke ontkoppelings- en integratiescenario's voor de wereldhandel"
-    authors: 
+    authors:
       - name: "Stefan Boeters"
         url: "https://www.cpb.nl/staff/stefan-boeters"
       - name: "Merve Mavus Kütük"
-        url: "https://www.cpb.nl/staff/merve-mavus-kutuk"	
+        url: "https://www.cpb.nl/staff/merve-mavus-kutuk"
       - name: "Gerdien Meijerink"
         url: "https://www.cpb.nl/staff/gerdien-meijerink"
       - name: "Maarten van 't Riet"
@@ -21,7 +68,7 @@ main:
 
   - title_en: "The importance of Dutch service activities in global value chains"
     title_nl: "Het belang van Nederlandse diensten in wereldwijde goederenproductie"
-    authors: 
+    authors:
       - name: "Stefan Boeters"
         url: "https://www.cpb.nl/staff/stefan-boeters"
       - name: "Daan Freeman"
@@ -39,7 +86,7 @@ main:
     abstract: "CPB Publication (Dutch title: 'Het belang van Nederlandse diensten in wereldwijde goederenproductie')"
 
   - title_nl: "Wederuitvoer motor achter stijging Nederlandse export"
-    authors: 
+    authors:
       - name: "Eva van der Wal"
         url: "https://www.cpb.nl/staff/eva-van-der-wal"
       - name: "Marco Ligthart"
@@ -52,7 +99,7 @@ main:
 
   - title_en: "A simulation of energy prices and corporate profits"
     title_nl: "Simulatie energieprijzen en bedrijfswinsten"
-    authors: 
+    authors:
       - name: "Beau Soederhuizen"
         url: "https://sites.google.com/site/bsoederhuizen/"
       - name: "Leon Bettendorf"

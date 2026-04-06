@@ -13,6 +13,8 @@ layout: homepage
 - Finance
 - Macroeconomics
 
+{% include_relative _includes/publications.md %}
+
 {% include_relative _includes/papers.md %}
 
 {% include_relative _includes/working.md %}
