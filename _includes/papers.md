@@ -41,7 +41,7 @@
                     {% assign coauthors = coauthors | append: ", " %}
                   {% endif %}
                 {% else %}
-                  {% assign coauthors = " (with " %}
+                  {% assign coauthors = "with " %}
                 {% endif %}
                 
                 {% if author.url %}
@@ -53,7 +53,6 @@
             {% endfor %}
             
             {% if solo_author == false %}
-              {% assign coauthors = coauthors | append: ")" %}
               {{ coauthors }}
             {% endif %}
           </div>
@@ -64,22 +63,22 @@
           </div>
           <div class="links">
             {% if link.pdf %}
-              <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:18px;">[Paper]</a>
+              <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
             {% endif %}
             {% if link.slides %}
-              <a href="{{ link.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:18px;">[Slides]</a>
+              <a href="{{ link.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
             {% endif %}
             {% if link.code %}
-              <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:18px;">[Code]</a>
+              <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
             {% endif %}
             {% if link.page %}
-              <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:18px;">[Paper]</a>
+              <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
             {% endif %}
             {% if link.bibtex %}
-              <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:18px;">[BibTex]</a>
+              <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
             {% endif %}
             {% if link.abstract %}
-              <a class="btn btn-sm z-depth-0" role="button" style="font-size:18px; cursor:pointer;" onclick="this.parentNode.parentNode.querySelector('.abstract').classList.toggle('open')">[Abstract]</a>
+              <a class="btn btn-sm z-depth-0" role="button" style="font-size:12px; cursor:pointer;" onclick="this.parentNode.parentNode.querySelector('.abstract').classList.toggle('open')">Abstract</a>
             {% endif %}
             {% if link.notes %}
               <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>

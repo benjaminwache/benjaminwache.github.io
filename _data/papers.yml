@@ -12,6 +12,7 @@ main:
       - name: "Benjamin Wache"
     pdf: ./assets/files/telegraph_capital_allocation.pdf
     date: "2023-07-14"
+    abstract: "How does information impact the international allocation of capital? Using the global rollout of telegraph cables in the 19th century, I show causal evidence that reductions in information frictions had a significant and positive impact on the bilateral international flow of financial capital from the UK. The results indicate that the telegraph lead to more than a doubling of capital flows. For identification I use a geographic instrument, the ruggedness of the seabed. The effect of the telegraph was stronger for capital flows to businesses than to governments, and was significantly positive for flows to most industries. The telegraph had a direct and sizable impact on capital flows that was distinct from the increase in capital flows due to the telegraph's effect on trade. Using data from historical British newspapers, I show that the annual number of articles mentioning connected countries increased around the arrival of the telegraph. I interpret this as evidence that part of the mechanism through which the telegraph affected capital flows went through the news channel."
     #image: ./assets/img/teaser_telegraph_capital_allocation.png
 
   - title: "Social Connectedness and the Geography of Venture Capital Flows"
@@ -19,4 +20,5 @@ main:
       - name: "Benjamin Wache"
     pdf: assets/files/vc_social_connectedness.pdf
     date: "2023-09-20"
+    abstract: "This paper examines the role of social connectedness in shaping cross-county venture capital (VC) investments. I study yearly county-to-county VC investments, and find a very large effect: a 1% increase in social connectedness is associated with a ~0.5% increase in VC investment. When controlling for social connectedness, physical distance becomes irrelevant as a determinant of VC flows. This result is robust to the addition of several bilateral controls (travel time, trade, commuting, migration). I find that early stage funding is more strongly impacted, and that counties with higher levels of social access to VC host more and better startups."
     #image: ./assets/img/teaser_vc_social_connectedness.png

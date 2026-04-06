@@ -17,6 +17,6 @@ layout: homepage
 
 {% include_relative _includes/papers.md %}
 
-{% include_relative _includes/working.md %}
+{% comment %}{% include_relative _includes/working.md %}{% endcomment %}
 
 {% include_relative _includes/policy.md %}
