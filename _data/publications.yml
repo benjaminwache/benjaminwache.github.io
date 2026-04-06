@@ -7,4 +7,4 @@ main:
       - name: "Benjamin Wache"
     conference: "Journal of Business Venturing (forthcoming)"
     page: "https://www.sciencedirect.com/science/article/pii/S0883902626000182"
-    image: ./assets/img/teaser_vc_growth.png
+    #image: ./assets/img/teaser_vc_growth.png

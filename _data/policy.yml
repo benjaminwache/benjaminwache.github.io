@@ -3,6 +3,7 @@ main:
   - title_nl: "Arbeidsmarktonzekerheid in netwerken"
     authors:
       - name: "S. Vissers"
+        url: "https://www.cpb.nl/en/staff/suzanne-vissers"
       - name: "Benjamin Wache"
     conference: CPB Publication
     page: "https://www.cpb.nl/publicatie/arbeidsmarktonzekerheid-netwerken-hoe-risicos-zich-concentreren-sociale-kring"
@@ -12,8 +13,11 @@ main:
     title_nl: "Proces van creatieve destructie verzwakt in Nederland"
     authors:
       - name: "Y. Adema"
+        url: "https://www.cpb.nl/en/staff/yvonne-adema"
       - name: "L. Bettendorf"
+        url: "https://www.cpb.nl/staff/leon-bettendorf"
       - name: "E. van Bezooijen"
+        url: "https://www.cpb.nl/en/staff/emiel-van-bezooijen"
       - name: "D. Freeman"
         url: "https://www.cpb.nl/en/staff/daan-freeman"
       - name: "Benjamin Wache"
@@ -31,6 +35,7 @@ main:
       - name: "Gerdien Meijerink"
         url: "https://www.cpb.nl/staff/gerdien-meijerink"
       - name: "A. Sharipova"
+        url: "https://sites.google.com/view/adelinasharipova"
       - name: "Benjamin Wache"
     conference: CPB Publication
     page: "https://www.cpb.nl/en/nederlandse-bedrijven-internationale-productieketens"
