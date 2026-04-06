@@ -3,7 +3,9 @@ main:
   - title: "Digital Chokepoints: The Geoeconomics of Telecom Networks, 1850-2025"
     authors:
       - name: "Benjamin Wache"
+    pdf: "https://tinyurl.com/5xeth9p4"
     date: "2025-06-01"
+    abstract: "Submarine cables are a vital infrastructure of the global economy, carrying over 95% of intercontinental data, from financial transactions to AI applications. Yet they are also highly vulnerable to sabotage, espionage, and sanctions. This paper presents the first systematic effort to map and quantify dependence, vulnerability, and hegemonic dominance in global telecom networks over 150 years. We produce the CableHist dataset, covering all international undersea cables — telegraph, telephone, and internet — from 1850 to 2025, as well as all satellites in orbit. Using a network traffic model, we estimate countries' dependence on foreign cables and their exposure to disruption. We find that hegemonic powers have long dominated telecom networks and that they repeatedly weaponized this control. We also show that geopolitical tensions trigger strategic—but economically redundant—investments aimed at increasing security and independence. Finally, we conduct scenario analysis showing how vulnerable today's undersea cable system is, with risks being particularly high in the East China Sea, the Mediterranean Sea, and the Indian Ocean."
 
   - title: "Information Flows and Global Capital Allocation: Evidence from the Telegraph"
     authors:

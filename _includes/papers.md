@@ -63,28 +63,36 @@
             {% endif %}
           </div>
           <div class="links">
-            {% if link.pdf %} 
+            {% if link.pdf %}
               <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:18px;">[Paper]</a>
             {% endif %}
-            {% if link.slides %} 
+            {% if link.slides %}
               <a href="{{ link.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:18px;">[Slides]</a>
             {% endif %}
-            {% if link.code %} 
+            {% if link.code %}
               <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:18px;">[Code]</a>
             {% endif %}
-            {% if link.page %} 
-              <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:18px;">[Project Page]</a>
+            {% if link.page %}
+              <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:18px;">[Paper]</a>
             {% endif %}
-            {% if link.bibtex %} 
+            {% if link.bibtex %}
               <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:18px;">[BibTex]</a>
             {% endif %}
-            {% if link.notes %} 
+            {% if link.abstract %}
+              <a class="btn btn-sm z-depth-0" role="button" style="font-size:18px; cursor:pointer;" onclick="this.parentNode.parentNode.querySelector('.abstract').classList.toggle('open')">[Abstract]</a>
+            {% endif %}
+            {% if link.notes %}
               <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
             {% endif %}
-            {% if link.others %} 
+            {% if link.others %}
               {{ link.others }}
             {% endif %}
           </div>
+          {% if link.abstract %}
+          <div class="abstract hidden" style="margin-top: 10px; font-size: 14px; text-align: justify;">
+            <p>{{ link.abstract }}</p>
+          </div>
+          {% endif %}
         </div>
       </div>
     </li>
