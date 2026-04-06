@@ -20,14 +20,37 @@
   <div class="col-sm-9 pub-row-text" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title" style="font-weight: bold;">{{ link.title }}</div>
       <div class="author">
+        {% assign coauthors = "" %}
+        {% assign coauthor_count = 0 %}
+        {% assign total_coauthors = 0 %}
         {% for author in link.authors %}
-          {% if author.url %}
-            <a href="{{ author.url }}">{{ author.name }}</a>
-          {% else %}
-            {{ author.name }}
+          {% if author.name != "Benjamin Wache" %}
+            {% assign total_coauthors = total_coauthors | plus: 1 %}
           {% endif %}
-          {% unless forloop.last %} and {% endunless %}
         {% endfor %}
+        {% for author in link.authors %}
+          {% if author.name != "Benjamin Wache" %}
+            {% assign coauthor_count = coauthor_count | plus: 1 %}
+            {% if coauthors != "" %}
+              {% if coauthor_count == total_coauthors %}
+                {% assign coauthors = coauthors | append: ", and " %}
+              {% else %}
+                {% assign coauthors = coauthors | append: ", " %}
+              {% endif %}
+            {% else %}
+              {% assign coauthors = "(with " %}
+            {% endif %}
+            {% if author.url %}
+              {% assign coauthors = coauthors | append: "<a href='" | append: author.url | append: "'>" | append: author.name | append: "</a>" %}
+            {% else %}
+              {% assign coauthors = coauthors | append: author.name %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        {% if total_coauthors > 0 %}
+          {% assign coauthors = coauthors | append: ")" %}
+          {{ coauthors }}
+        {% endif %}
       </div>      <div class="periodical"><em>{{ link.conference }}</em>
       <div class="date">{{ link.date | date: "%B %d, %Y" }}</div>
       </div>
