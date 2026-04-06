@@ -2,6 +2,10 @@ main:
 
   - title: "Digital Chokepoints: The Geoeconomics of Telecom Networks, 1850-2025"
     authors:
+      - name: "Michael Porcellacchia"
+        url: "https://sites.google.com/view/michael-porcellacchia/home"
+      - name: "Christoph Trebesch"
+        url: "https://sites.google.com/site/christophtrebesch/"
       - name: "Benjamin Wache"
     pdf: "https://tinyurl.com/5xeth9p4"
     date: "2025-06-01"
