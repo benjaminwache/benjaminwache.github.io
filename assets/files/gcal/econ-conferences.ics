@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
 UID:econconf-kvs-nederlandse-economendag-2026-deadline-paper-submission@eco
  n-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:CFP: Nederlandse Economendag 2026 - Paper submission
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-cepr-paris-symposium-2026-deadline-paper-submission@econ-confe
  rences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:CFP: CEPR Paris Symposium 2026 - Paper submission
@@ -45,7 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-ecb-forum-central-banking-2026-conference@econ-conferences.gca
  l.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260702
 SUMMARY:CONF: ECB Forum on Central Banking 2026
@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-cepr-mg-symposium-2026-deadline-paper-submission@econ-conferen
  ces.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:CFP: CEPR Macroeconomics and Growth Annual Symposium 2026 - Paper s
@@ -86,7 +86,7 @@ URL:https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-sed-2026-athens-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260705
 SUMMARY:CONF: Society for Economic Dynamics Annual Meeting 2026
@@ -104,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-etsg-2026-exeter-deadline-registration-and-full-paper-url-dead
  line@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:CFP: ETSG Annual Conference 2026 - Registration and full-paper URL 
@@ -122,7 +122,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-bis-hkimr-imf-global-interconnections-2026-conference@econ-con
  ferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260715
 SUMMARY:CONF: HKIMR-BIS-IMF Joint Conference on Global Interconnections and
@@ -144,7 +144,7 @@ URL:https://www.bis.org/events/cfp_260713-hkimr-bis-imf.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-si-2026-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260801
 SUMMARY:CONF: NBER Summer Institute 2026
@@ -168,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-narsc-2026-philadelphia-deadline-abstract-or-complete-session-
  submission@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:CFP: NARSC Annual Meeting 2026 - Abstract or complete-session submi
@@ -186,7 +186,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-afa-2027-deadline-phd-student-poster-submission@econ-conferenc
  es.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:CFP: American Finance Association Annual Meeting 2027 - PhD student
@@ -203,7 +203,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-cepr-paris-symposium-2026-deadline-phd-poster-submission@econ-
  conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
 SUMMARY:CFP: CEPR Paris Symposium 2026 - PhD poster submission
@@ -220,7 +220,7 @@ URL:https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-sy
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-eea-esem-2026-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260822
 SUMMARY:CONF: EEA-ESEM Congress 2026
@@ -239,7 +239,7 @@ URL:https://www.eea-esem-congresses.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-efa-2026-ghent-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260823
 SUMMARY:CONF: European Finance Association Annual Meeting 2026
@@ -256,7 +256,7 @@ URL:https://efa2026.efa-finance.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-ersa-2026-sofia-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260829
 SUMMARY:CONF: ERSA Congress 2026
@@ -276,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-afa-2027-deadline-future-of-finance-award-and-special-session-
  eligibility-deadline@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:CFP: American Finance Association Annual Meeting 2027 - Future of F
@@ -293,7 +293,7 @@ URL:https://afajof.org/annual-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-etsg-2026-exeter-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260913
 SUMMARY:CONF: ETSG Annual Conference 2026
@@ -311,7 +311,7 @@ URL:https://etsg.org/conferences/etsg-2026-exeter/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-vfs-2026-innsbruck-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260917
 SUMMARY:CONF: VfS Annual Conference 2026
@@ -330,7 +330,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-production-functions-2026-deadline-paper-submission@econ-
  conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:CFP: NBER Production Function Estimation and Its Applications to In
@@ -350,7 +350,7 @@ URL:https://www.nber.org/calls-papers-and-proposals/production-function-est
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-dgf-2026-duesseldorf-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260927
 SUMMARY:CONF: German Finance Association Annual Meeting 2026
@@ -368,7 +368,7 @@ URL:https://www.whu.edu/de/news-insights/events/dgf2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-uea-na-2026-chicago-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260927
 SUMMARY:CONF: Urban Economics Association North American Meeting 2026
@@ -387,7 +387,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-kvs-nederlandse-economendag-2026-conference@econ-conferences.g
  cal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:CONF: Nederlandse Economendag 2026
@@ -406,7 +406,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-kiel-cepr-geoeconomics-2026-conference@econ-conferences.gcal.l
  ocal
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261105
 SUMMARY:CONF: 5th Kiel-CEPR Conference on Geoeconomics
@@ -429,7 +429,7 @@ URL:https://cepr.org/events/event-series/kiel-cepr-conference-geoeconomics/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-narsc-2026-philadelphia-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261115
 SUMMARY:CONF: NARSC Annual Meeting 2026
@@ -447,7 +447,7 @@ URL:https://www.narsc.org/newsite/conference/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-imf-jacques-polak-2026-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261114
 SUMMARY:CONF: 27th Jacques Polak Annual Research Conference
@@ -470,7 +470,7 @@ URL:https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacque
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-cepr-mg-symposium-2026-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261121
 SUMMARY:CONF: CEPR Macroeconomics and Growth Annual Symposium 2026
@@ -491,7 +491,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-cbi-ucd-cepr-macro-finance-2026-conference@econ-conferences.gc
  al.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261202
 SUMMARY:CONF: Conference on Macro-Finance and Financial Stability Policies 
@@ -515,7 +515,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-ecb-financial-stability-macroprudential-2026-conference@econ-c
  onferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261204
 SUMMARY:CONF: ECB Conference on Financial Stability and Macroprudential Pol
@@ -537,7 +537,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-cepr-paris-symposium-2026-conference@econ-conferences.gcal.loc
  al
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261209
 SUMMARY:CONF: CEPR Paris Symposium 2026
@@ -561,7 +561,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-production-functions-2026-conference@econ-conferences.gca
  l.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:CONF: NBER Production Function Estimation and Its Applications to I
@@ -583,7 +583,7 @@ URL:https://www.nber.org/conferences/production-function-estimation-and-its
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-assa-2027-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270106
 SUMMARY:CONF: ASSA Annual Meeting 2027
@@ -601,7 +601,7 @@ URL:https://www.aeaweb.org/conference/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-afa-2027-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270106
 SUMMARY:CONF: American Finance Association Annual Meeting 2027
@@ -621,7 +621,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-spatial-spillovers-2027-deadline-paper-submission@econ-co
  nferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:CFP: NBER Spatial Spillovers from Transport Infrastructure Investme
@@ -641,7 +641,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-spatial-spillovers-2027-conference@econ-conferences.gcal.
  local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270411
 SUMMARY:CONF: NBER Spatial Spillovers from Transport Infrastructure Investm
@@ -663,7 +663,7 @@ URL:https://www.nber.org/calls-papers-and-proposals/spatial-spillovers-tran
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-uea-europe-2027-paris-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270529
 SUMMARY:CONF: Urban Economics Association European Meeting 2027
@@ -677,7 +677,7 @@ URL:https://urbaneconomics.org/meetings/future.html
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-firs-2027-glasgow-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270606
 SUMMARY:CONF: FIRS Conference 2027
@@ -692,7 +692,7 @@ URL:https://firsociety.org/conference/2027-conference/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-wfa-2027-indian-wells-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270701
 SUMMARY:CONF: Western Finance Association Meeting 2027
@@ -706,7 +706,7 @@ URL:https://westernfinance.org/future/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-etsg-2027-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T125401Z
+DTSTAMP:20260625T130938Z
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270912
 SUMMARY:CONF: ETSG Annual Conference 2027
