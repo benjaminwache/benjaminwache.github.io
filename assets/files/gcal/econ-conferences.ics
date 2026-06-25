@@ -1,0 +1,720 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gcal//Economics Conferences and CFPs//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Economics Conferences and CFPs
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VEVENT
+UID:econconf-kvs-nederlandse-economendag-2026-deadline-paper-submission@eco
+ n-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:CFP: Nederlandse Economendag 2026 - Paper submission
+DESCRIPTION:Conference: Nederlandse Economendag 2026\nOrganizer: KVS Econom
+ envereniging\nDeadline: Paper submission\nFit score: 5/5\nFit rationale: M
+ ost directly relevant Dutch general economics meeting for CPB-facing resea
+ rch visibility.\nNotes: Submit a draft paper via the linked registration f
+ orm.\nLink: https://esb.nu/nederlandse-economendag-2026/\n\nSources:\n- ht
+ tps://esb.nu/nederlandse-economendag-2026/\n- https://kvsweb.nl/evenemente
+ n/\n- https://nl.surveymonkey.com/r/2PPPDRN
+LOCATION:Netherlands
+URL:https://esb.nu/nederlandse-economendag-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-cepr-paris-symposium-2026-deadline-paper-submission@econ-confe
+ rences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:CFP: CEPR Paris Symposium 2026 - Paper submission
+DESCRIPTION:Conference: CEPR Paris Symposium 2026\nOrganizer: Centre for Ec
+ onomic Policy Research\nDeadline: Paper submission\nFit score: 5/5\nFit ra
+ tionale: CEPR flagship symposium with relevant international trade and reg
+ ional economics calls.\nDeadline time: 20:00 Europe/Paris\nNotes: Relevant
+  streams include International Trade and Regional Economics and related CE
+ PR programme areas.\nLink: https://cepr.org/events/event-series/cepr-paris
+ -symposium/cepr-paris-symposium-2026\n\nSources:\n- https://cepr.org/event
+ s/event-series/cepr-paris-symposium/cepr-paris-symposium-2026\n- https://c
+ epr.org/events/event-series/cepr-paris-symposium
+LOCATION:Paris\, France
+URL:https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-sy
+ mposium-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-ecb-forum-central-banking-2026-conference@econ-conferences.gca
+ l.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260702
+SUMMARY:CONF: ECB Forum on Central Banking 2026
+DESCRIPTION:Organizer: European Central Bank\nType: conference\nFit score: 
+ 4/5\nFit rationale: High-level European macro/finance policy forum with in
+ novation and growth theme.\nTags: macro\, finance\, Europe\, policy\, prod
+ uctivity\n\nPrimary deadline: Young Economist Prize applications - 2026-03
+ -02 (closed)\nDeadline notes: Theme: innovation\, growth\, and stability.\
+ nDeadline link: https://www.ecb.europa.eu/press/conferences/ecbforum/html/
+ index.en.html\n\nMain link: https://www.ecb.europa.eu/press/conferences/ht
+ ml/20260629_ecb_forum_on_central_banking.en.html\n\nSources:\n- https://ww
+ w.ecb.europa.eu/press/conferences/html/20260629_ecb_forum_on_central_banki
+ ng.en.html\n- https://www.ecb.europa.eu/press/conferences/ecbforum/html/in
+ dex.en.html
+LOCATION:Sintra\, Portugal
+URL:https://www.ecb.europa.eu/press/conferences/html/20260629_ecb_forum_on_
+ central_banking.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-cepr-mg-symposium-2026-deadline-paper-submission@econ-conferen
+ ces.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:CFP: CEPR Macroeconomics and Growth Annual Symposium 2026 - Paper s
+ ubmission
+DESCRIPTION:Conference: CEPR Macroeconomics and Growth Annual Symposium 202
+ 6\nOrganizer: CEPR Macroeconomics and Growth Programme\nDeadline: Paper su
+ bmission\nFit score: 5/5\nFit rationale: High-fit CEPR macro and growth ve
+ nue\, relevant to macro/productivity interests.\nDeadline time: 19:00 Euro
+ pe/London\nLink: https://cepr.org/events/cepr-macroeconomics-and-growth-an
+ nual-symposium-2026\n\nSources:\n- https://cepr.org/events/cepr-macroecono
+ mics-and-growth-annual-symposium-2026\n- https://cepr.org/research/program
+ me-areas/macroeconomics-and-growth
+LOCATION:CUNEF Universidad\, Madrid\, Spain
+URL:https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium
+ -2026
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-sed-2026-athens-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260705
+SUMMARY:CONF: Society for Economic Dynamics Annual Meeting 2026
+DESCRIPTION:Organizer: Society for Economic Dynamics\nType: conference\nFit
+  score: 5/5\nFit rationale: Core macroeconomic dynamics meeting\, directly
+  relevant to macro\, growth\, and financial economics.\nTags: macroeconomi
+ cs\, growth\, finance\n\nPrimary deadline: Paper submission - 2026-02-15 (
+ closed)\nDeadline link: https://editorialexpress.com/conference/SED2026/\n
+ \nMain link: https://economicdynamics.org/\n\nSources:\n- https://economic
+ dynamics.org/\n- https://editorialexpress.com/conference/SED2026/\n- https
+ ://www.dept.aueb.gr/en/sed2026/sed-2026
+LOCATION:Athens\, Greece
+URL:https://economicdynamics.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-etsg-2026-exeter-deadline-registration-and-full-paper-url-dead
+ line@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:CFP: ETSG Annual Conference 2026 - Registration and full-paper URL 
+ deadline
+DESCRIPTION:Conference: ETSG Annual Conference 2026\nOrganizer: European Tr
+ ade Study Group\nDeadline: Registration and full-paper URL deadline\nFit s
+ core: 5/5\nFit rationale: Core European international trade meeting and ve
+ ry high fit for trade/global value chain work.\nLink: https://etsg.org/con
+ ferences/etsg-2026-exeter/\n\nSources:\n- https://etsg.org/conferences/ets
+ g-2026-exeter/\n- https://tarc.exeter.ac.uk/etsg-2026-exeter/\n- https://e
+ tsg.org/
+LOCATION:University of Exeter\, Exeter\, United Kingdom
+URL:https://etsg.org/conferences/etsg-2026-exeter/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-bis-hkimr-imf-global-interconnections-2026-conference@econ-con
+ ferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260715
+SUMMARY:CONF: HKIMR-BIS-IMF Joint Conference on Global Interconnections and
+  Financial Stability
+DESCRIPTION:Organizer: HKIMR\, Bank for International Settlements\, and Int
+ ernational Monetary Fund\nType: conference\nFit score: 5/5\nFit rationale:
+  Direct match to international finance\, geopolitics\, financial stability
+ \, and reconfiguration of global flows.\nTags: international finance\, geo
+ economics\, financial stability\, policy\n\nPrimary deadline: Paper or ext
+ ended abstract submission - 2026-04-30 (closed)\nDeadline notes: Topics in
+ clude geopolitical landscape\, reconfigured trade and financial flows\, so
+ vereign debt\, and financial stability.\nDeadline link: https://www.bis.or
+ g/events/cfp_260713-hkimr-bis-imf.htm\n\nMain link: https://www.bis.org/ev
+ ents/cfp_260713-hkimr-bis-imf.htm\n\nSources:\n- https://www.bis.org/event
+ s/cfp_260713-hkimr-bis-imf.htm\n- https://cepr.org/events/hkimr-bis-imf-jo
+ int-conference-global-interconnections-and-financial-stability
+LOCATION:Hong Kong
+URL:https://www.bis.org/events/cfp_260713-hkimr-bis-imf.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-nber-si-2026-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260801
+SUMMARY:CONF: NBER Summer Institute 2026
+DESCRIPTION:Organizer: National Bureau of Economic Research\nType: conferen
+ ce\nFit score: 5/5\nFit rationale: Flagship research meeting with multiple
+  high-fit NBER programs in international\, macro/finance\, geopolitics\, i
+ nnovation\, and productivity.\nTags: general economics\, international eco
+ nomics\, macro\, finance\, trade\, productivity\, geoeconomics\, United St
+ ates\n\nPrimary deadline: Summer Institute paper submission - 2026-03-26 (
+ closed)\nDeadline time: 23:59 America/New_York\nDeadline notes: Relevant S
+ I programs include international finance and macroeconomics\, internationa
+ l trade and macroeconomics\, international economics and geopolitics\, mac
+ roeconomics and productivity\, innovation\, and digital economics.\nDeadli
+ ne link: https://www.nber.org/calls-papers-and-proposals\n\nMain link: htt
+ ps://www.nber.org/summer-institute\n\nSources:\n- https://www.nber.org/sum
+ mer-institute\n- https://www.nber.org/conferences/summer-institute-2026\n-
+  https://www.nber.org/calls-papers-and-proposals
+LOCATION:Cambridge\, MA\, USA
+URL:https://www.nber.org/summer-institute
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-narsc-2026-philadelphia-deadline-abstract-or-complete-session-
+ submission@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:CFP: NARSC Annual Meeting 2026 - Abstract or complete-session submi
+ ssion
+DESCRIPTION:Conference: NARSC Annual Meeting 2026\nOrganizer: North America
+ n Regional Science Council\nDeadline: Abstract or complete-session submiss
+ ion\nFit score: 4/5\nFit rationale: Major North American regional science 
+ meeting and good match for spatial/regional economics work.\nLink: https:/
+ /www.narsc.org/newsite/conference/call-for-papers/\n\nSources:\n- https://
+ www.narsc.org/newsite/conference/\n- https://www.narsc.org/newsite/confere
+ nce/call-for-papers/
+LOCATION:Sheraton Philadelphia Downtown\, Philadelphia\, PA\, USA
+URL:https://www.narsc.org/newsite/conference/call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-afa-2027-deadline-phd-student-poster-submission@econ-conferenc
+ es.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:CFP: American Finance Association Annual Meeting 2027 - PhD student
+  poster submission
+DESCRIPTION:Conference: American Finance Association Annual Meeting 2027\nO
+ rganizer: American Finance Association\nDeadline: PhD student poster submi
+ ssion\nFit score: 4/5\nFit rationale: Top finance meeting\; useful where f
+ inance overlaps with macro\, information frictions\, and international cap
+ ital flows.\nLink: https://afajof.org/\n\nSources:\n- https://afajof.org/a
+ nnual-meeting/\n- https://afajof.org/
+LOCATION:Washington\, DC\, USA
+URL:https://afajof.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-cepr-paris-symposium-2026-deadline-phd-poster-submission@econ-
+ conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:CFP: CEPR Paris Symposium 2026 - PhD poster submission
+DESCRIPTION:Conference: CEPR Paris Symposium 2026\nOrganizer: Centre for Ec
+ onomic Policy Research\nDeadline: PhD poster submission\nFit score: 5/5\nF
+ it rationale: CEPR flagship symposium with relevant international trade an
+ d regional economics calls.\nLink: https://cepr.org/events/event-series/ce
+ pr-paris-symposium/cepr-paris-symposium-2026\n\nSources:\n- https://cepr.o
+ rg/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026\n- h
+ ttps://cepr.org/events/event-series/cepr-paris-symposium
+LOCATION:Paris\, France
+URL:https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-sy
+ mposium-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-eea-esem-2026-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260822
+SUMMARY:CONF: EEA-ESEM Congress 2026
+DESCRIPTION:Organizer: European Economic Association and Econometric Societ
+ y\nType: conference\nFit score: 5/5\nFit rationale: Largest broad European
+  economics congress with natural fit across all target fields.\nTags: gene
+ ral economics\, Europe\, macro\, finance\, international economics\, spati
+ al economics\n\nPrimary deadline: Paper submission - 2026-02-23 (closed)\n
+ Deadline time: 23:59:59 America/Los_Angeles\nDeadline link: https://www.ee
+ a-esem-congresses.org/submit-your-paper\n\nMain link: https://www.eea-esem
+ -congresses.org/\n\nSources:\n- https://www.eea-esem-congresses.org/\n- ht
+ tps://www.eea-esem-congresses.org/important-dates\n- https://www.eea-esem-
+ congresses.org/submit-your-paper
+LOCATION:University College Dublin\, Dublin\, Ireland
+URL:https://www.eea-esem-congresses.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-efa-2026-ghent-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260823
+SUMMARY:CONF: European Finance Association Annual Meeting 2026
+DESCRIPTION:Organizer: European Finance Association\nType: conference\nFit 
+ score: 4/5\nFit rationale: Top European finance meeting\; relevant where f
+ inance intersects macro\, information\, and international flows.\nTags: fi
+ nancial economics\, Europe\n\nPrimary deadline: Paper submission - 2026-02
+ -01 (closed)\nDeadline link: https://efa2026.efa-meetings.org/submission/\
+ n\nMain link: https://efa2026.efa-finance.org/\n\nSources:\n- https://efa2
+ 026.efa-finance.org/\n- https://efa2026.efa-meetings.org/submission/\n- ht
+ tps://www.efa-online.org/associations/efa/index.asp
+LOCATION:Ghent\, Belgium
+URL:https://efa2026.efa-finance.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-ersa-2026-sofia-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260829
+SUMMARY:CONF: ERSA Congress 2026
+DESCRIPTION:Organizer: European Regional Science Association\nType: confere
+ nce\nFit score: 4/5\nFit rationale: Major European regional science confer
+ ence\, useful for spatial economics and geography-related work.\nTags: spa
+ tial economics\, regional science\, Europe\n\nPrimary deadline: Abstract a
+ nd paper submission - 2026-02-28 (closed)\nDeadline time: 23:59 Europe/Bru
+ ssels\nDeadline notes: Theme: Global Challenges and Regional Responses in 
+ a Transition Era.\nDeadline link: https://ersa.eventsair.com/ersa2026/call
+ -for-abstracts\n\nMain link: https://ersa.org/events/65th-ersa-congress/\n
+ \nSources:\n- https://ersa.org/events/65th-ersa-congress/\n- https://ersa.
+ eventsair.com/ersa2026/call-for-abstracts
+LOCATION:Sofia\, Bulgaria
+URL:https://ersa.org/events/65th-ersa-congress/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-afa-2027-deadline-future-of-finance-award-and-special-session-
+ eligibility-deadline@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:CFP: American Finance Association Annual Meeting 2027 - Future of F
+ inance Award and Special Session eligibility deadline
+DESCRIPTION:Conference: American Finance Association Annual Meeting 2027\nO
+ rganizer: American Finance Association\nDeadline: Future of Finance Award 
+ and Special Session eligibility deadline\nFit score: 4/5\nFit rationale: T
+ op finance meeting\; useful where finance overlaps with macro\, informatio
+ n frictions\, and international capital flows.\nLink: https://afajof.org/a
+ nnual-meeting/\n\nSources:\n- https://afajof.org/annual-meeting/\n- https:
+ //afajof.org/
+LOCATION:Washington\, DC\, USA
+URL:https://afajof.org/annual-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-etsg-2026-exeter-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260913
+SUMMARY:CONF: ETSG Annual Conference 2026
+DESCRIPTION:Organizer: European Trade Study Group\nType: conference\nFit sc
+ ore: 5/5\nFit rationale: Core European international trade meeting and ver
+ y high fit for trade/global value chain work.\nTags: international trade\,
+  Europe\n\nPrimary deadline: Conference submission - 2026-05-15 (closed)\n
+ Deadline link: https://etsg.org/conferences/etsg-2026-exeter/\n\nAdditiona
+ l deadlines:\n- 2026-07-08 - Registration and full-paper URL deadline - (o
+ pen)\n\nMain link: https://etsg.org/conferences/etsg-2026-exeter/\n\nSourc
+ es:\n- https://etsg.org/conferences/etsg-2026-exeter/\n- https://tarc.exet
+ er.ac.uk/etsg-2026-exeter/\n- https://etsg.org/
+LOCATION:University of Exeter\, Exeter\, United Kingdom
+URL:https://etsg.org/conferences/etsg-2026-exeter/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-vfs-2026-innsbruck-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260917
+SUMMARY:CONF: VfS Annual Conference 2026
+DESCRIPTION:Organizer: Verein fur Socialpolitik\nType: conference\nFit scor
+ e: 5/5\nFit rationale: Major German-language economics association meeting
+  and key regional professional venue.\nTags: general economics\, Germany\,
+  Europe\n\nPrimary deadline: Paper and organized-session submission - 2026
+ -03-01 (closed)\nDeadline link: https://www.socialpolitik.de/en/vfs-annual
+ -conference-2026-call-papers\n\nMain link: https://www.socialpolitik.de/en
+ /vfs-annual-conference-2026-call-papers\n\nSources:\n- https://www.socialp
+ olitik.de/en/vfs-annual-conference-2026-call-papers\n- https://express.con
+ veria.de/frontend/index.php?sub=2043
+LOCATION:University of Innsbruck\, Innsbruck\, Austria
+URL:https://www.socialpolitik.de/en/vfs-annual-conference-2026-call-papers
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-nber-production-functions-2026-deadline-paper-submission@econ-
+ conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:CFP: NBER Production Function Estimation and Its Applications to In
+ dustries - Paper submission
+DESCRIPTION:Conference: NBER Production Function Estimation and Its Applica
+ tions to Industries\nOrganizer: National Bureau of Economic Research\nDead
+ line: Paper submission\nFit score: 5/5\nFit rationale: Very high fit for p
+ roductivity and production-function work.\nDeadline time: 23:59 America/Ne
+ w_York\nLink: https://www.nber.org/calls-papers-and-proposals/production-f
+ unction-estimation-and-its-applications-industries\n\nSources:\n- https://
+ www.nber.org/calls-papers-and-proposals/production-function-estimation-and
+ -its-applications-industries\n- https://www.nber.org/conferences/productio
+ n-function-estimation-and-its-applications-industries-fall-2026
+LOCATION:Cambridge\, MA\, USA
+URL:https://www.nber.org/calls-papers-and-proposals/production-function-est
+ imation-and-its-applications-industries
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-dgf-2026-duesseldorf-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260927
+SUMMARY:CONF: German Finance Association Annual Meeting 2026
+DESCRIPTION:Organizer: German Finance Association\nType: conference\nFit sc
+ ore: 4/5\nFit rationale: Important Germany-based finance meeting\, relevan
+ t to financial economics network and policy-facing finance.\nTags: financi
+ al economics\, Germany\n\nPrimary deadline: Paper submission - 2026-04-15 
+ (closed)\nDeadline time: 23:59 Europe/Berlin\nDeadline link: https://www.d
+ gf.info/neuigkeiten/\n\nMain link: https://www.whu.edu/de/news-insights/ev
+ ents/dgf2026/\n\nSources:\n- https://www.whu.edu/de/news-insights/events/d
+ gf2026/\n- https://www.dgf.info/neuigkeiten/\n- https://www.conftool.pro/d
+ gf2026/about.php
+LOCATION:Dusseldorf\, Germany
+URL:https://www.whu.edu/de/news-insights/events/dgf2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-uea-na-2026-chicago-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260927
+SUMMARY:CONF: Urban Economics Association North American Meeting 2026
+DESCRIPTION:Organizer: Urban Economics Association\nType: conference\nFit s
+ core: 5/5\nFit rationale: Top urban/spatial economics field meeting\; Step
+ hen Redding keynote makes it especially relevant.\nTags: spatial economics
+ \, urban economics\, United States\n\nPrimary deadline: Paper submission -
+  2026-05-21 (closed)\nDeadline time: 23:59 America/Chicago\nDeadline link:
+  https://urbaneconomics.org/meetings/uea2026/call.html\n\nMain link: https
+ ://urbaneconomics.org/meetings/uea2026/\n\nSources:\n- https://urbaneconom
+ ics.org/meetings/uea2026/\n- https://urbaneconomics.org/meetings/uea2026/c
+ all.html\n- https://urbaneconomics.org/meetings/uea2026/info.html
+LOCATION:Federal Reserve Bank of Chicago\, Chicago\, IL\, USA
+URL:https://urbaneconomics.org/meetings/uea2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-kvs-nederlandse-economendag-2026-conference@econ-conferences.g
+ cal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:CONF: Nederlandse Economendag 2026
+DESCRIPTION:Organizer: KVS Economenvereniging\nType: conference\nFit score:
+  5/5\nFit rationale: Most directly relevant Dutch general economics meetin
+ g for CPB-facing research visibility.\nTags: general economics\, Netherlan
+ ds\, policy\n\nPrimary deadline: Paper submission - 2026-06-26 (open)\nDea
+ dline notes: Submit a draft paper via the linked registration form.\nDeadl
+ ine link: https://esb.nu/nederlandse-economendag-2026/\n\nMain link: https
+ ://esb.nu/nederlandse-economendag-2026/\n\nSources:\n- https://esb.nu/nede
+ rlandse-economendag-2026/\n- https://kvsweb.nl/evenementen/\n- https://nl.
+ surveymonkey.com/r/2PPPDRN
+LOCATION:Netherlands
+URL:https://esb.nu/nederlandse-economendag-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-kiel-cepr-geoeconomics-2026-conference@econ-conferences.gcal.l
+ ocal
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261105
+SUMMARY:CONF: 5th Kiel-CEPR Conference on Geoeconomics
+DESCRIPTION:Organizer: Kiel Institute for the World Economy and CEPR\nType:
+  conference\nFit score: 5/5\nFit rationale: Directly matches Benjamin's Ki
+ el affiliation and geoeconomics/international finance focus.\nTags: geoeco
+ nomics\, international finance\, international trade\, Germany\, Europe\n\
+ nPrimary deadline: Paper submission - 2026-06-23 (closed)\nDeadline notes:
+  Organizers include Moritz Schularick and Christoph Trebesch.\nDeadline li
+ nk: https://cepr.org/events/event-series/kiel-cepr-conference-geoeconomics
+ /5th-kiel-cepr-conference-geoeconomics\n\nMain link: https://cepr.org/even
+ ts/event-series/kiel-cepr-conference-geoeconomics/5th-kiel-cepr-conference
+ -geoeconomics\n\nSources:\n- https://cepr.org/events/event-series/kiel-cep
+ r-conference-geoeconomics/5th-kiel-cepr-conference-geoeconomics\n- https:/
+ /www.linkedin.com/posts/centre-for-economic-policy-research_callforpapers-
+ activity-7470128018804506627-Pj_m
+LOCATION:German Federal Foreign Office\, Berlin\, Germany
+URL:https://cepr.org/events/event-series/kiel-cepr-conference-geoeconomics/
+ 5th-kiel-cepr-conference-geoeconomics
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-narsc-2026-philadelphia-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261115
+SUMMARY:CONF: NARSC Annual Meeting 2026
+DESCRIPTION:Organizer: North American Regional Science Council\nType: confe
+ rence\nFit score: 4/5\nFit rationale: Major North American regional scienc
+ e meeting and good match for spatial/regional economics work.\nTags: spati
+ al economics\, regional science\, United States\n\nPrimary deadline: Abstr
+ act or complete-session submission - 2026-07-17 (open)\nDeadline link: htt
+ ps://www.narsc.org/newsite/conference/call-for-papers/\n\nMain link: https
+ ://www.narsc.org/newsite/conference/\n\nSources:\n- https://www.narsc.org/
+ newsite/conference/\n- https://www.narsc.org/newsite/conference/call-for-p
+ apers/
+LOCATION:Sheraton Philadelphia Downtown\, Philadelphia\, PA\, USA
+URL:https://www.narsc.org/newsite/conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-imf-jacques-polak-2026-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261114
+SUMMARY:CONF: 27th Jacques Polak Annual Research Conference
+DESCRIPTION:Organizer: International Monetary Fund\nType: conference\nFit s
+ core: 5/5\nFit rationale: Major international macro/finance policy researc
+ h conference with multipolarity and technology theme.\nTags: macroeconomic
+ s\, international finance\, policy\, geoeconomics\n\nPrimary deadline: Ful
+ l paper or extended proposal submission - 2026-06-15 (closed)\nDeadline no
+ tes: Theme: Towards a Multipolar World - Technology and the International 
+ Monetary System.\nDeadline link: https://www.imf.org/en/news/seminars/conf
+ erences/2026/11/12/2026-jacques-polak-annual-research-conference\n\nMain l
+ ink: https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacq
+ ues-polak-annual-research-conference\n\nSources:\n- https://www.imf.org/en
+ /news/seminars/conferences/2026/11/12/2026-jacques-polak-annual-research-c
+ onference\n- https://www.imf.org/en/news/sprolls/annual-imf-research-confe
+ rences
+LOCATION:Washington\, DC\, USA
+URL:https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacque
+ s-polak-annual-research-conference
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-cepr-mg-symposium-2026-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261121
+SUMMARY:CONF: CEPR Macroeconomics and Growth Annual Symposium 2026
+DESCRIPTION:Organizer: CEPR Macroeconomics and Growth Programme\nType: conf
+ erence\nFit score: 5/5\nFit rationale: High-fit CEPR macro and growth venu
+ e\, relevant to macro/productivity interests.\nTags: macroeconomics\, grow
+ th\, Europe\n\nPrimary deadline: Paper submission - 2026-06-30 (open)\nDea
+ dline time: 19:00 Europe/London\nDeadline link: https://cepr.org/events/ce
+ pr-macroeconomics-and-growth-annual-symposium-2026\n\nMain link: https://c
+ epr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026\n\nSou
+ rces:\n- https://cepr.org/events/cepr-macroeconomics-and-growth-annual-sym
+ posium-2026\n- https://cepr.org/research/programme-areas/macroeconomics-an
+ d-growth
+LOCATION:CUNEF Universidad\, Madrid\, Spain
+URL:https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium
+ -2026
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-cbi-ucd-cepr-macro-finance-2026-conference@econ-conferences.gc
+ al.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261202
+SUMMARY:CONF: Conference on Macro-Finance and Financial Stability Policies 
+ 2026
+DESCRIPTION:Organizer: Central Bank of Ireland\, University College Dublin\
+ , and CEPR\nType: conference\nFit score: 5/5\nFit rationale: Directly rele
+ vant macro-finance and financial stability conference co-sponsored by CEPR
+ .\nTags: macro-finance\, financial stability\, Europe\, policy\n\nPrimary 
+ deadline: Paper submission - 2026-06-23 (closed)\nDeadline link: https://w
+ ww.centralbank.ie/events/2026/11/30/default-calendar/conference-on-macro-f
+ inance-and-financial-stability-policies-2026\n\nMain link: https://www.cen
+ tralbank.ie/events/2026/11/30/default-calendar/conference-on-macro-finance
+ -and-financial-stability-policies-2026\n\nSources:\n- https://www.centralb
+ ank.ie/events/2026/11/30/default-calendar/conference-on-macro-finance-and-
+ financial-stability-policies-2026\n- https://cepr.org/events/open-calls-pa
+ pers
+LOCATION:Dublin\, Ireland
+URL:https://www.centralbank.ie/events/2026/11/30/default-calendar/conferenc
+ e-on-macro-finance-and-financial-stability-policies-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-ecb-financial-stability-macroprudential-2026-conference@econ-c
+ onferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261204
+SUMMARY:CONF: ECB Conference on Financial Stability and Macroprudential Pol
+ icy 2026
+DESCRIPTION:Organizer: European Central Bank\nType: conference\nFit score: 
+ 4/5\nFit rationale: Strong finance-policy venue in Germany\, relevant to m
+ acro-finance and financial stability.\nTags: financial economics\, macropr
+ udential policy\, Germany\, Europe\n\nPrimary deadline: Paper submission -
+  2026-06-15 (closed)\nDeadline notes: Focus topics include banking sector 
+ competitiveness and AI in banking and finance.\nDeadline link: https://www
+ .ecb.europa.eu/press/conferences/html/20261202_financial_stability.en.html
+ \n\nMain link: https://www.ecb.europa.eu/press/conferences/html/20261202_f
+ inancial_stability.en.html\n\nSources:\n- https://www.ecb.europa.eu/press/
+ conferences/html/20261202_financial_stability.en.html
+LOCATION:Frankfurt am Main\, Germany
+URL:https://www.ecb.europa.eu/press/conferences/html/20261202_financial_sta
+ bility.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-cepr-paris-symposium-2026-conference@econ-conferences.gcal.loc
+ al
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261209
+SUMMARY:CONF: CEPR Paris Symposium 2026
+DESCRIPTION:Organizer: Centre for Economic Policy Research\nType: conferenc
+ e\nFit score: 5/5\nFit rationale: CEPR flagship symposium with relevant in
+ ternational trade and regional economics calls.\nTags: general economics\,
+  international trade\, regional economics\, Europe\n\nPrimary deadline: Pa
+ per submission - 2026-06-28 (open)\nDeadline time: 20:00 Europe/Paris\nDea
+ dline notes: Relevant streams include International Trade and Regional Eco
+ nomics and related CEPR programme areas.\nDeadline link: https://cepr.org/
+ events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026\n\nAddi
+ tional deadlines:\n- 2026-08-16 - PhD poster submission - (open)\n\nMain l
+ ink: https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-
+ symposium-2026\n\nSources:\n- https://cepr.org/events/event-series/cepr-pa
+ ris-symposium/cepr-paris-symposium-2026\n- https://cepr.org/events/event-s
+ eries/cepr-paris-symposium
+LOCATION:Paris\, France
+URL:https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-sy
+ mposium-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-nber-production-functions-2026-conference@econ-conferences.gca
+ l.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:CONF: NBER Production Function Estimation and Its Applications to I
+ ndustries
+DESCRIPTION:Organizer: National Bureau of Economic Research\nType: conferen
+ ce\nFit score: 5/5\nFit rationale: Very high fit for productivity and prod
+ uction-function work.\nTags: productivity\, industrial organization\, Unit
+ ed States\n\nPrimary deadline: Paper submission - 2026-09-14 (open)\nDeadl
+ ine time: 23:59 America/New_York\nDeadline link: https://www.nber.org/call
+ s-papers-and-proposals/production-function-estimation-and-its-applications
+ -industries\n\nMain link: https://www.nber.org/conferences/production-func
+ tion-estimation-and-its-applications-industries-fall-2026\n\nSources:\n- h
+ ttps://www.nber.org/calls-papers-and-proposals/production-function-estimat
+ ion-and-its-applications-industries\n- https://www.nber.org/conferences/pr
+ oduction-function-estimation-and-its-applications-industries-fall-2026
+LOCATION:Cambridge\, MA\, USA
+URL:https://www.nber.org/conferences/production-function-estimation-and-its
+ -applications-industries-fall-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-assa-2027-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270106
+SUMMARY:CONF: ASSA Annual Meeting 2027
+DESCRIPTION:Organizer: American Economic Association / Allied Social Scienc
+ e Associations\nType: conference\nFit score: 5/5\nFit rationale: Flagship 
+ US general economics meeting with broad coverage across all target fields.
+ \nTags: general economics\, United States\, macro\, finance\, trade\, spat
+ ial economics\n\nPrimary deadline: Individual paper proposal - 2026-04-01 
+ (closed)\nDeadline link: https://www.aeaweb.org/conference/\n\nAdditional 
+ deadlines:\n- 2026-04-15 - Complete session proposal - (closed)\n\nMain li
+ nk: https://www.aeaweb.org/conference/\n\nSources:\n- https://www.aeaweb.o
+ rg/conference/\n- https://www.aeaweb.org/conference/future-annual-meetings
+LOCATION:Washington\, DC\, USA
+URL:https://www.aeaweb.org/conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-afa-2027-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270106
+SUMMARY:CONF: American Finance Association Annual Meeting 2027
+DESCRIPTION:Organizer: American Finance Association\nType: conference\nFit 
+ score: 4/5\nFit rationale: Top finance meeting\; useful where finance over
+ laps with macro\, information frictions\, and international capital flows.
+ \nTags: financial economics\, United States\n\nPrimary deadline: Regular p
+ aper submission - 2026-03-16 (closed)\nDeadline time: 15:00 America/New_Yo
+ rk\nDeadline link: https://afajof.org/annual-meeting/\n\nAdditional deadli
+ nes:\n- 2026-07-31 - PhD student poster submission - (open)\n- 2026-08-31 
+ - Future of Finance Award and Special Session eligibility deadline - (open
+ )\n\nMain link: https://afajof.org/annual-meeting/\n\nSources:\n- https://
+ afajof.org/annual-meeting/\n- https://afajof.org/
+LOCATION:Washington\, DC\, USA
+URL:https://afajof.org/annual-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-nber-spatial-spillovers-2027-deadline-paper-submission@econ-co
+ nferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:CFP: NBER Spatial Spillovers from Transport Infrastructure Investme
+ nts - Paper submission
+DESCRIPTION:Conference: NBER Spatial Spillovers from Transport Infrastructu
+ re Investments\nOrganizer: National Bureau of Economic Research\nDeadline:
+  Paper submission\nFit score: 5/5\nFit rationale: Excellent fit for spatia
+ l economics and infrastructure spillovers\; organized by Myrto Kalouptsidi
+  and Stephen Redding.\nDeadline time: 23:59 America/New_York\nLink: https:
+ //www.nber.org/calls-papers-and-proposals/spatial-spillovers-transport-inf
+ rastructure-investments\n\nSources:\n- https://www.nber.org/calls-papers-a
+ nd-proposals/spatial-spillovers-transport-infrastructure-investments
+LOCATION:Cambridge\, MA\, USA
+URL:https://www.nber.org/calls-papers-and-proposals/spatial-spillovers-tran
+ sport-infrastructure-investments
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-nber-spatial-spillovers-2027-conference@econ-conferences.gcal.
+ local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270411
+SUMMARY:CONF: NBER Spatial Spillovers from Transport Infrastructure Investm
+ ents
+DESCRIPTION:Organizer: National Bureau of Economic Research\nType: conferen
+ ce\nFit score: 5/5\nFit rationale: Excellent fit for spatial economics and
+  infrastructure spillovers\; organized by Myrto Kalouptsidi and Stephen Re
+ dding.\nTags: spatial economics\, transport infrastructure\, United States
+ \, urban economics\n\nPrimary deadline: Paper submission - 2027-01-14 (ope
+ n)\nDeadline time: 23:59 America/New_York\nDeadline link: https://www.nber
+ .org/calls-papers-and-proposals/spatial-spillovers-transport-infrastructur
+ e-investments\n\nMain link: https://www.nber.org/calls-papers-and-proposal
+ s/spatial-spillovers-transport-infrastructure-investments\n\nSources:\n- h
+ ttps://www.nber.org/calls-papers-and-proposals/spatial-spillovers-transpor
+ t-infrastructure-investments
+LOCATION:Cambridge\, MA\, USA
+URL:https://www.nber.org/calls-papers-and-proposals/spatial-spillovers-tran
+ sport-infrastructure-investments
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-uea-europe-2027-paris-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270529
+SUMMARY:CONF: Urban Economics Association European Meeting 2027
+DESCRIPTION:Organizer: Urban Economics Association\nType: conference\nFit s
+ core: 5/5\nFit rationale: Top European urban/spatial economics meeting in 
+ a priority geography.\nTags: spatial economics\, urban economics\, Europe\
+ n\nMain link: https://urbaneconomics.org/meetings/future.html\n\nSources:\
+ n- https://urbaneconomics.org/meetings/future.html
+LOCATION:Sciences Po\, Paris\, France
+URL:https://urbaneconomics.org/meetings/future.html
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-firs-2027-glasgow-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270606
+SUMMARY:CONF: FIRS Conference 2027
+DESCRIPTION:Organizer: Financial Intermediation Research Society\nType: con
+ ference\nFit score: 4/5\nFit rationale: Important financial intermediation
+  conference with relevance to finance and capital allocation.\nTags: finan
+ cial economics\, Europe\n\nMain link: https://firsociety.org/conference/20
+ 27-conference/\n\nSources:\n- https://firsociety.org/conference/\n- https:
+ //firsociety.org/conference/2027-conference/
+LOCATION:Hilton Glasgow\, Glasgow\, United Kingdom
+URL:https://firsociety.org/conference/2027-conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-wfa-2027-indian-wells-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270701
+SUMMARY:CONF: Western Finance Association Meeting 2027
+DESCRIPTION:Organizer: Western Finance Association\nType: conference\nFit s
+ core: 4/5\nFit rationale: Top finance field meeting\; included with tentat
+ ive CFP watch for 2027.\nTags: financial economics\, United States\n\nMain
+  link: https://westernfinance.org/future/\n\nSources:\n- https://westernfi
+ nance.org/future/\n- https://westernfinance.org/submit-a-paper/
+LOCATION:Indian Wells\, CA\, USA
+URL:https://westernfinance.org/future/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-etsg-2027-conference@econ-conferences.gcal.local
+DTSTAMP:20260625T125401Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270912
+SUMMARY:CONF: ETSG Annual Conference 2027
+DESCRIPTION:Organizer: European Trade Study Group\nType: conference\nFit sc
+ ore: 5/5\nFit rationale: Core international trade meeting\; future placeho
+ lder ensures weekly monitoring.\nTags: international trade\, Europe\n\nMai
+ n link: https://etsg.org/\n\nSources:\n- https://etsg.org/
+LOCATION:TBA
+URL:https://etsg.org/
+END:VEVENT
+END:VCALENDAR
