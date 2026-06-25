@@ -1,0 +1,447 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gcal//Tour de France 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tour de France 2026
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:tdf-2026-stage-01@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260704T150500Z
+DTEND:20260704T171600Z
+SUMMARY:Tour de France Stage 1: Barcelone > Barcelone
+LOCATION:Barcelone > Barcelone
+URL:https://www.letour.fr/en/stage-1
+DESCRIPTION:Stage type: Team Time-Trial\nDistance: 19.6 km\nElevation gain:
+  200 m\nRace window: First start 17:05 - Last arrival 19:16 (Europe/Paris)
+ \nWhy watch: Opening team time trial in Barcelona with a Montjuïc finish 
+ and the first yellow jersey at stake.\n\nKey climbs:\n- Côte du Stade Oly
+ mpique de Montjuïc (0.8 km at 7%\, km 19.6)\n\nOfficial stage: https://ww
+ w.letour.fr/en/stage-1\nRace Center: https://racecenter.letour.fr/en/livet
+ racking/1\n\nBroadcasters:\nNLD - NOS: https://nos.nl/sport/wielrennen\nFR
+ A - France Televisions: https://www.france.tv/sport/cyclisme/tour-de-franc
+ e/\nGER - ARD / Sportschau: https://www.sportschau.de/radsport/tourdefranc
+ e\n\nSource data: official Tour de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-02@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260705T114500Z
+DTEND:20260705T152600Z
+SUMMARY:Tour de France Stage 2: Tarragone > Barcelone
+LOCATION:Tarragone > Barcelone
+URL:https://www.letour.fr/en/stage-2
+DESCRIPTION:Stage type: Hilly\nDistance: 168.5 km\nElevation gain: 2500 m\n
+ Race window: Neutralised start 13:45 - Expected arrival 17:26 (Europe/Pari
+ s)\nWhy watch: Punchy Barcelona circuit stage with repeated Montjuïc clim
+ bs.\nPoints sprint: Viladecans\n\nKey climbs:\n- Côte de Begues (Cat 2\, 
+ 6.1 km at 6.5%\, km 94.2)\n- Côte du Château de Montjuïc x3 (Cat 3\, 1.
+ 6 km at 9.3%)\n\nOfficial stage: https://www.letour.fr/en/stage-2\nRace Ce
+ nter: https://racecenter.letour.fr/en/livetracking/2\n\nBroadcasters:\nNLD
+  - NOS: https://nos.nl/sport/wielrennen\nFRA - France Televisions: https:/
+ /www.france.tv/sport/cyclisme/tour-de-france/\nGER - ARD / Sportschau: htt
+ ps://www.sportschau.de/radsport/tourdefrance\n\nSource data: official Tour
+  de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-03@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260706T101000Z
+DTEND:20260706T145400Z
+SUMMARY:Tour de France Stage 3: Granollers > Les Angles
+LOCATION:Granollers > Les Angles
+URL:https://www.letour.fr/en/stage-3
+DESCRIPTION:Stage type: Mountain\nDistance: 195.9 km\nElevation gain: 3850 
+ m\nRace window: Neutralised start 12:10 - Expected arrival 16:54 (Europe/P
+ aris)\nWhy watch: First Pyrenean summit finish and an early form check at 
+ Les Angles.\nPoints sprint: Campdevànol\n\nKey climbs:\n- Côte de Saint 
+ Feliu de Codines (Cat 3\, 7.6 km at 4.5%\, km 17.2)\n- Col de Toses (Cat 1
+ \, 9.3 km at 6.5%\, km 127.7)\n- Col du Calvaire (Cat 3\, 11.4 km at 4.1%\
+ , km 172.3)\n- Les Angles (Cat 3\, 1.8 km at 6.5%\, km 195.9)\n\nOfficial 
+ stage: https://www.letour.fr/en/stage-3\nRace Center: https://racecenter.l
+ etour.fr/en/livetracking/3\n\nBroadcasters:\nNLD - NOS: https://nos.nl/spo
+ rt/wielrennen\nFRA - France Televisions: https://www.france.tv/sport/cycli
+ sme/tour-de-france/\nGER - ARD / Sportschau: https://www.sportschau.de/rad
+ sport/tourdefrance\n\nSource data: official Tour de France 2026 route and 
+ stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-04@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260707T111000Z
+DTEND:20260707T152300Z
+SUMMARY:Tour de France Stage 4: Carcassonne > Foix
+LOCATION:Carcassonne > Foix
+URL:https://www.letour.fr/en/stage-4
+DESCRIPTION:Stage type: Hilly\nDistance: 181.9 km\nElevation gain: 2700 m\n
+ Race window: Neutralised start 13:10 - Expected arrival 17:23 (Europe/Pari
+ s)\nWhy watch: Foothills stage with a technical run toward Foix.\nPoints s
+ print: Quillan\n\nKey climbs:\n- Col de Bedos (Cat 4\, 3.4 km at 4.4%\, km
+  48.2)\n- Col du Paradis (Cat 3\, 5.9 km at 4.1%\, km 64.9)\n- Col de Coud
+ ons (Cat 2\, 10.8 km at 5.5%\, km 104.9)\n- Col de Montségur (Cat 2\, 6.9
+  km at 6.6%\, km 146.7)\n\nOfficial stage: https://www.letour.fr/en/stage-
+ 4\nRace Center: https://racecenter.letour.fr/en/livetracking/4\n\nBroadcas
+ ters:\nNLD - NOS: https://nos.nl/sport/wielrennen\nFRA - France Television
+ s: https://www.france.tv/sport/cyclisme/tour-de-france/\nGER - ARD / Sport
+ schau: https://www.sportschau.de/radsport/tourdefrance\n\nSource data: off
+ icial Tour de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-05@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260708T120500Z
+DTEND:20260708T153700Z
+SUMMARY:Tour de France Stage 5: Lannemezan > Pau
+LOCATION:Lannemezan > Pau
+URL:https://www.letour.fr/en/stage-5
+DESCRIPTION:Stage type: Flat\nDistance: 158.3 km\nElevation gain: 1600 m\nR
+ ace window: Neutralised start 14:05 - Expected arrival 17:37 (Europe/Paris
+ )\nWhy watch: Likely sprint opportunity on the road into Pau.\nPoints spri
+ nt: Vic-en-Bigorre\n\nKey climbs:\n- Côte de Baleix (Cat 3\, 1 km at 8.8%
+ \, km 132.7)\n\nOfficial stage: https://www.letour.fr/en/stage-5\nRace Cen
+ ter: https://racecenter.letour.fr/en/livetracking/5\n\nBroadcasters:\nNLD 
+ - NOS: https://nos.nl/sport/wielrennen\nFRA - France Televisions: https://
+ www.france.tv/sport/cyclisme/tour-de-france/\nGER - ARD / Sportschau: http
+ s://www.sportschau.de/radsport/tourdefrance\n\nSource data: official Tour 
+ de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-06@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260709T102500Z
+DTEND:20260709T152900Z
+SUMMARY:Tour de France Stage 6: Pau > Gavarnie-Gèdre
+LOCATION:Pau > Gavarnie-Gèdre
+URL:https://www.letour.fr/en/stage-6
+DESCRIPTION:Stage type: Mountain\nDistance: 186.2 km\nElevation gain: 4100 
+ m\nRace window: Neutralised start 12:25 - Expected arrival 17:29 (Europe/P
+ aris)\nWhy watch: First major mountain test\, featuring Aspin\, Tourmalet\
+ , and the Gavarnie-Gèdre finish.\nPoints sprint: Pouzac\n\nKey climbs:\n-
+  Côte de Loucrup (Cat 4\, 2 km at 7.1%\, km 50.9)\n- Côte de Mauvezin (C
+ at 3\, 3 km at 6.8%\, km 77.3)\n- Col d'Aspin (Cat 1\, 12 km at 6.5%\, km 
+ 118.1)\n- Col du Tourmalet (HC\, 17.1 km at 7.3%\, km 147.8)\n- Gavarnie-G
+ èdre (Cat 2\, 18.7 km at 3.7%\, km 186.2)\n\nOfficial stage: https://www.
+ letour.fr/en/stage-6\nRace Center: https://racecenter.letour.fr/en/livetra
+ cking/6\n\nBroadcasters:\nNLD - NOS: https://nos.nl/sport/wielrennen\nFRA 
+ - France Televisions: https://www.france.tv/sport/cyclisme/tour-de-france/
+ \nGER - ARD / Sportschau: https://www.sportschau.de/radsport/tourdefrance\
+ n\nSource data: official Tour de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-07@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260710T111500Z
+DTEND:20260710T151300Z
+SUMMARY:Tour de France Stage 7: Hagetmau > Bordeaux
+LOCATION:Hagetmau > Bordeaux
+URL:https://www.letour.fr/en/stage-7
+DESCRIPTION:Stage type: Flat\nDistance: 175.1 km\nElevation gain: 850 m\nRa
+ ce window: Neutralised start 13:15 - Expected arrival 17:13 (Europe/Paris)
+ \nWhy watch: Flat-to-rolling stage that should bring the sprinters back in
+ to play in Bordeaux.\nPoints sprint: Landiras\n\nKey climbs:\n- Côte de B
+ éguey (Cat 4\, 1.2 km at 4.4%\, km 137.3)\n\nOfficial stage: https://www.
+ letour.fr/en/stage-7\nRace Center: https://racecenter.letour.fr/en/livetra
+ cking/7\n\nBroadcasters:\nNLD - NOS: https://nos.nl/sport/wielrennen\nFRA 
+ - France Televisions: https://www.france.tv/sport/cyclisme/tour-de-france/
+ \nGER - ARD / Sportschau: https://www.sportschau.de/radsport/tourdefrance\
+ n\nSource data: official Tour de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-08@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260711T111500Z
+DTEND:20260711T152000Z
+SUMMARY:Tour de France Stage 8: Périgueux > Bergerac
+LOCATION:Périgueux > Bergerac
+URL:https://www.letour.fr/en/stage-8
+DESCRIPTION:Stage type: Flat\nDistance: 180.4 km\nElevation gain: 1150 m\nR
+ ace window: Neutralised start 13:15 - Expected arrival 17:20 (Europe/Paris
+ )\nWhy watch: Dordogne road stage with enough late texture for breakaway p
+ ressure.\nPoints sprint: Saint-Cyprien\n\nKey climbs:\n- Côte de Domme (C
+ at 4\, 3.7 km at 3.3%\, km 102.6)\n- Côte du Buisson-de-Cadouin (Cat 4\, 
+ 2.2 km at 5.3%\, km 140.4)\n\nOfficial stage: https://www.letour.fr/en/sta
+ ge-8\nRace Center: https://racecenter.letour.fr/en/livetracking/8\n\nBroad
+ casters:\nNLD - NOS: https://nos.nl/sport/wielrennen\nFRA - France Televis
+ ions: https://www.france.tv/sport/cyclisme/tour-de-france/\nGER - ARD / Sp
+ ortschau: https://www.sportschau.de/radsport/tourdefrance\n\nSource data: 
+ official Tour de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-09@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260712T113500Z
+DTEND:20260712T154700Z
+SUMMARY:Tour de France Stage 9: Malemort > Ussel
+LOCATION:Malemort > Ussel
+URL:https://www.letour.fr/en/stage-9
+DESCRIPTION:Stage type: Hilly\nDistance: 185.5 km\nElevation gain: 3300 m\n
+ Race window: Neutralised start 13:35 - Expected arrival 17:47 (Europe/Pari
+ s)\nWhy watch: Classics-style hilly day before the first rest day.\nPoints
+  sprint: Beynat\n\nKey climbs:\n- Côte de Naves (Cat 3\, 2.3 km at 7.4%\,
+  km 77)\n- Suc au May (Cat 2\, 3.8 km at 7.5%\, km 105)\n- Côte de la Cro
+ ix du Pey (Cat 3\, 4.8 km at 6%\, km 129.4)\n- Mont Bessou (Cat 4\, 0.9 km
+  at 1.2%\, km 161)\n\nOfficial stage: https://www.letour.fr/en/stage-9\nRa
+ ce Center: https://racecenter.letour.fr/en/livetracking/9\n\nBroadcasters:
+ \nNLD - NOS: https://nos.nl/sport/wielrennen\nFRA - France Televisions: ht
+ tps://www.france.tv/sport/cyclisme/tour-de-france/\nGER - ARD / Sportschau
+ : https://www.sportschau.de/radsport/tourdefrance\n\nSource data: official
+  Tour de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-10@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260714T111000Z
+DTEND:20260714T151200Z
+SUMMARY:Tour de France Stage 10: Aurillac > Le Lioran
+LOCATION:Aurillac > Le Lioran
+URL:https://www.letour.fr/en/stage-10
+DESCRIPTION:Stage type: Mountain\nDistance: 166.6 km\nElevation gain: 3800 
+ m\nRace window: Neutralised start 13:10 - Expected arrival 17:12 (Europe/P
+ aris)\nWhy watch: Bastille Day mountain stage in the Massif Central with c
+ limbs stacked late.\nPoints sprint: Lacapelle-del-Fraisse\n\nKey climbs:\n
+ - Côte de Pailherols (Cat 3\, 3 km at 7.2%\, km 68)\n- Col de la Griffoul
+  (Cat 2\, 5.9 km at 6.7%\, km 97.3)\n- Col de Prat de Bouc (Cat 3\, 3.1 km
+  at 6.5%\, km 103.8)\n- Côte de Murat (Cat 3\, 5.2 km at 5.3%\, km 118.8)
+ \n- Puy Mary - Pas de Peyrol (Cat 1\, 7.8 km at 6%\, km 135.7)\n- Col de P
+ ertus (Cat 1\, 4.4 km at 8.5%\, km 152.1)\n- Col de Font de Cère (Cat 3\,
+  3.1 km at 5.8%\, km 163.9)\n\nOfficial stage: https://www.letour.fr/en/st
+ age-10\nRace Center: https://racecenter.letour.fr/en/livetracking/10\n\nBr
+ oadcasters:\nNLD - NOS: https://nos.nl/sport/wielrennen\nFRA - France Tele
+ visions: https://www.france.tv/sport/cyclisme/tour-de-france/\nGER - ARD /
+  Sportschau: https://www.sportschau.de/radsport/tourdefrance\n\nSource dat
+ a: official Tour de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-11@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260715T115000Z
+DTEND:20260715T153100Z
+SUMMARY:Tour de France Stage 11: Vichy > Nevers
+LOCATION:Vichy > Nevers
+URL:https://www.letour.fr/en/stage-11
+DESCRIPTION:Stage type: Flat\nDistance: 161.3 km\nElevation gain: 1400 m\nR
+ ace window: Neutralised start 13:50 - Expected arrival 17:31 (Europe/Paris
+ )\nWhy watch: Transition stage to Nevers\, likely shaped by sprint teams a
+ nd wind exposure.\nPoints sprint: Saint-Pourçain-sur-Sioule\n\nKey climbs
+ :\n- Côte de Billonnière (Cat 4\, 1.1 km at 5.8%\, km 32.9)\n- Côte de 
+ Billy-Chevannes (Cat 4\, 1.5 km at 5%\, km 123.4)\n\nOfficial stage: https
+ ://www.letour.fr/en/stage-11\nRace Center: https://racecenter.letour.fr/en
+ /livetracking/11\n\nBroadcasters:\nNLD - NOS: https://nos.nl/sport/wielren
+ nen\nFRA - France Televisions: https://www.france.tv/sport/cyclisme/tour-d
+ e-france/\nGER - ARD / Sportschau: https://www.sportschau.de/radsport/tour
+ defrance\n\nSource data: official Tour de France 2026 route and stage page
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-12@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260716T113000Z
+DTEND:20260716T152900Z
+SUMMARY:Tour de France Stage 12: Circuit Nevers Magny-Cours > Chalon-sur-Sa
+ ône
+LOCATION:Circuit Nevers Magny-Cours > Chalon-sur-Saône
+URL:https://www.letour.fr/en/stage-12
+DESCRIPTION:Stage type: Flat\nDistance: 179.1 km\nElevation gain: 1800 m\nR
+ ace window: Neutralised start 13:30 - Expected arrival 17:29 (Europe/Paris
+ )\nWhy watch: Rolling Burgundy stage from Magny-Cours to Chalon-sur-Saône
+ .\nPoints sprint: Decize\n\nKey climbs:\n- Côte de Lanty (Cat 4\, 2.1 km 
+ at 4%\, km 76.5)\n- Côte de Cuzy (Cat 4\, 2.5 km at 4.5%\, km 97.8)\n- C
+ ôte de Montagny-lès-Buxy (Cat 4\, 2.7 km at 4.3%\, km 159.4)\n\nOfficial
+  stage: https://www.letour.fr/en/stage-12\nRace Center: https://racecenter
+ .letour.fr/en/livetracking/12\n\nBroadcasters:\nNLD - NOS: https://nos.nl/
+ sport/wielrennen\nFRA - France Televisions: https://www.france.tv/sport/cy
+ clisme/tour-de-france/\nGER - ARD / Sportschau: https://www.sportschau.de/
+ radsport/tourdefrance\n\nSource data: official Tour de France 2026 route a
+ nd stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-13@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260717T110000Z
+DTEND:20260717T154600Z
+SUMMARY:Tour de France Stage 13: Dole > Belfort
+LOCATION:Dole > Belfort
+URL:https://www.letour.fr/en/stage-13
+DESCRIPTION:Stage type: Hilly\nDistance: 205.8 km\nElevation gain: 2400 m\n
+ Race window: Neutralised start 13:00 - Expected arrival 17:46 (Europe/Pari
+ s)\nWhy watch: Long hilly stage toward Belfort and the Vosges.\nPoints spr
+ int: Mélisey\n\nKey climbs:\n- Col des Croix (Cat 3\, 5.2 km at 4.8%\, km
+  157.4)\n- Ballon d'Alsace (Cat 1\, 8.8 km at 6.9%\, km 175.9)\n\nOfficial
+  stage: https://www.letour.fr/en/stage-13\nRace Center: https://racecenter
+ .letour.fr/en/livetracking/13\n\nBroadcasters:\nNLD - NOS: https://nos.nl/
+ sport/wielrennen\nFRA - France Televisions: https://www.france.tv/sport/cy
+ clisme/tour-de-france/\nGER - ARD / Sportschau: https://www.sportschau.de/
+ radsport/tourdefrance\n\nSource data: official Tour de France 2026 route a
+ nd stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-14@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260718T111000Z
+DTEND:20260718T152400Z
+SUMMARY:Tour de France Stage 14: Mulhouse > Le Markstein Fellering
+LOCATION:Mulhouse > Le Markstein Fellering
+URL:https://www.letour.fr/en/stage-14
+DESCRIPTION:Stage type: Mountain\nDistance: 155.3 km\nElevation gain: 3800 
+ m\nRace window: Neutralised start 13:10 - Expected arrival 17:24 (Europe/P
+ aris)\nWhy watch: Vosges mountain circuit with Grand Ballon and the new Co
+ l du Haag late.\nPoints sprint: Wattwiller\n\nKey climbs:\n- Grand Ballon 
+ (Cat 1\, 21.6 km at 4.7%\, km 36.6)\n- Col du Page (Cat 2\, 9.8 km at 4.7%
+ \, km 71.3)\n- Ballon d'Alsace (Cat 1\, 8.9 km at 6.9%\, km 94.4)\n- Col d
+ u Haag (Cat 1\, 11.2 km at 7.3%\, km 149.4)\n\nOfficial stage: https://www
+ .letour.fr/en/stage-14\nRace Center: https://racecenter.letour.fr/en/livet
+ racking/14\n\nBroadcasters:\nNLD - NOS: https://nos.nl/sport/wielrennen\nF
+ RA - France Televisions: https://www.france.tv/sport/cyclisme/tour-de-fran
+ ce/\nGER - ARD / Sportschau: https://www.sportschau.de/radsport/tourdefran
+ ce\n\nSource data: official Tour de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-15@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260719T111000Z
+DTEND:20260719T154100Z
+SUMMARY:Tour de France Stage 15: Champagnole > Plateau de Solaison
+LOCATION:Champagnole > Plateau de Solaison
+URL:https://www.letour.fr/en/stage-15
+DESCRIPTION:Stage type: Mountain\nDistance: 183.9 km\nElevation gain: 3950 
+ m\nRace window: Neutralised start 13:10 - Expected arrival 17:41 (Europe/P
+ aris)\nWhy watch: Hard summit-finish stage at Plateau de Solaison before t
+ he second rest day.\nPoints sprint: Saint-Laurent-en-Grandvaux\n\nKey clim
+ bs:\n- Côte des Rousses (Cat 3\, 6.6 km at 5.1%\, km 36.8)\n- Le Salève 
+ - Col de la Croisette (Cat 1\, 4.7 km at 11.2%\, km 136)\n- Côte du Mont 
+ (Cat 3\, 2.1 km at 8.3%\, km 146)\n- Plateau de Solaison (HC\, 11.3 km at 
+ 9%\, km 183.9)\n\nOfficial stage: https://www.letour.fr/en/stage-15\nRace 
+ Center: https://racecenter.letour.fr/en/livetracking/15\n\nBroadcasters:\n
+ NLD - NOS: https://nos.nl/sport/wielrennen\nFRA - France Televisions: http
+ s://www.france.tv/sport/cyclisme/tour-de-france/\nGER - ARD / Sportschau: 
+ https://www.sportschau.de/radsport/tourdefrance\n\nSource data: official T
+ our de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-16@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260721T110000Z
+DTEND:20260721T155000Z
+SUMMARY:Tour de France Stage 16: Évian-les-Bains > Thonon-les-Bains
+LOCATION:Évian-les-Bains > Thonon-les-Bains
+URL:https://www.letour.fr/en/stage-16
+DESCRIPTION:Stage type: Individual time-trial\nDistance: 26.1 km\nElevation
+  gain: 500 m\nRace window: First start 13:00 - Last arrival 17:50 (Europe/
+ Paris)\nWhy watch: Individual time trial around Évian-les-Bains and Thono
+ n-les-Bains.\n\nKey climbs:\n- Côte de Larringes checkpoint (Cat 2\, 9.7 
+ km at 4.3%\, km 9.7)\n\nOfficial stage: https://www.letour.fr/en/stage-16\
+ nRace Center: https://racecenter.letour.fr/en/livetracking/16\n\nBroadcast
+ ers:\nNLD - NOS: https://nos.nl/sport/wielrennen\nFRA - France Televisions
+ : https://www.france.tv/sport/cyclisme/tour-de-france/\nGER - ARD / Sports
+ chau: https://www.sportschau.de/radsport/tourdefrance\n\nSource data: offi
+ cial Tour de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-17@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260722T112000Z
+DTEND:20260722T151800Z
+SUMMARY:Tour de France Stage 17: Chambery > Voiron
+LOCATION:Chambery > Voiron
+URL:https://www.letour.fr/en/stage-17
+DESCRIPTION:Stage type: Flat\nDistance: 174.7 km\nElevation gain: 2200 m\nR
+ ace window: Neutralised start 13:20 - Expected arrival 17:18 (Europe/Paris
+ )\nWhy watch: Transition day toward the Alps with early categorized climbs
+ .\nPoints sprint: Colombe\n\nKey climbs:\n- Côte de Bassa (Cat 4\, 1.6 km
+  at 5.5%\, km 19.2)\n- Côte de Rossillon (Cat 4\, 1.7 km at 4.6%\, km 35.
+ 5)\n- Col des Près (Cat 3\, 3.6 km at 6.8%\, km 49.6)\n- Côte de Saint-J
+ ean d'Arvey (Cat 4\, 1.2 km at 5.7%\, km 59.5)\n\nOfficial stage: https://
+ www.letour.fr/en/stage-17\nRace Center: https://racecenter.letour.fr/en/li
+ vetracking/17\n\nBroadcasters:\nNLD - NOS: https://nos.nl/sport/wielrennen
+ \nFRA - France Televisions: https://www.france.tv/sport/cyclisme/tour-de-f
+ rance/\nGER - ARD / Sportschau: https://www.sportschau.de/radsport/tourdef
+ rance\n\nSource data: official Tour de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-18@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260723T103500Z
+DTEND:20260723T151200Z
+SUMMARY:Tour de France Stage 18: Voiron > Orcières-Merlette
+LOCATION:Voiron > Orcières-Merlette
+URL:https://www.letour.fr/en/stage-18
+DESCRIPTION:Stage type: Mountain\nDistance: 185.2 km\nElevation gain: 3900 
+ m\nRace window: Neutralised start 12:35 - Expected arrival 17:12 (Europe/P
+ aris)\nWhy watch: Alpine climbing day finishing at Orcières-Merlette.\nPo
+ ints sprint: Corps\n\nKey climbs:\n- Côte d'Engins (Cat 1\, 11.5 km at 5.
+ 4%\, km 36.7)\n- Côte de Monteynard (Cat 2\, 9.7 km at 5%\, km 92.2)\n- C
+ ôte des Terrasses (Cat 3\, 3.4 km at 6.6%\, km 112.8)\n- Côte de Saint-L
+ éger-les-Mélèzes (Cat 3\, 2.5 km at 6.9%\, km 166.2)\n- Orcières-Merle
+ tte (Cat 1\, 7.1 km at 6.7%\, km 185.2)\n\nOfficial stage: https://www.let
+ our.fr/en/stage-18\nRace Center: https://racecenter.letour.fr/en/livetrack
+ ing/18\n\nBroadcasters:\nNLD - NOS: https://nos.nl/sport/wielrennen\nFRA -
+  France Televisions: https://www.france.tv/sport/cyclisme/tour-de-france/\
+ nGER - ARD / Sportschau: https://www.sportschau.de/radsport/tourdefrance\n
+ \nSource data: official Tour de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-19@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260724T120000Z
+DTEND:20260724T152400Z
+SUMMARY:Tour de France Stage 19: Gap > Alpe d'Huez
+LOCATION:Gap > Alpe d'Huez
+URL:https://www.letour.fr/en/stage-19
+DESCRIPTION:Stage type: Mountain\nDistance: 127.9 km\nElevation gain: 3500 
+ m\nRace window: Neutralised start 14:00 - Expected arrival 17:24 (Europe/P
+ aris)\nWhy watch: First of two Alpe d'Huez finishes and a sharp final-week
+  GC test.\nPoints sprint: Le Périer\n\nKey climbs:\n- Col Bayard (Cat 2\,
+  4.8 km at 7.2%\, km 4.8)\n- Col du Noyer (Cat 1\, 7.2 km at 8.5%\, km 25.
+ 2)\n- Col d'Ornon (Cat 2\, 5.4 km at 6.4%\, km 99.2)\n- Alpe d'Huez (HC\, 
+ 13.7 km at 8.1%\, km 127.9)\n\nOfficial stage: https://www.letour.fr/en/st
+ age-19\nRace Center: https://racecenter.letour.fr/en/livetracking/19\n\nBr
+ oadcasters:\nNLD - NOS: https://nos.nl/sport/wielrennen\nFRA - France Tele
+ visions: https://www.france.tv/sport/cyclisme/tour-de-france/\nGER - ARD /
+  Sportschau: https://www.sportschau.de/radsport/tourdefrance\n\nSource dat
+ a: official Tour de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-20@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260725T092000Z
+DTEND:20260725T141100Z
+SUMMARY:Tour de France Stage 20: Le Bourg d'Oisans > Alpe d'Huez
+LOCATION:Le Bourg d'Oisans > Alpe d'Huez
+URL:https://www.letour.fr/en/stage-20
+DESCRIPTION:Stage type: Mountain\nDistance: 170.9 km\nElevation gain: 5450 
+ m\nRace window: Neutralised start 11:20 - Expected arrival 16:11 (Europe/P
+ aris)\nWhy watch: Final decisive mountain stage with Croix de Fer\, Galibi
+ er\, Sarenne\, and Alpe d'Huez.\nPoints sprint: Saint-Julien-Mont-Denis\n\
+ nKey climbs:\n- Col de la Croix de Fer (HC\, 24 km at 5.2%\, km 33.7)\n- C
+ ol du Télégraphe (Cat 1\, 11.9 km at 7.1%\, km 87.6)\n- Col du Galibier 
+ (HC\, 17.7 km at 6.9%\, km 110.5)\n- Col de Sarenne (HC\, 12.8 km at 7.3%\
+ , km 156.5)\n\nOfficial stage: https://www.letour.fr/en/stage-20\nRace Cen
+ ter: https://racecenter.letour.fr/en/livetracking/20\n\nBroadcasters:\nNLD
+  - NOS: https://nos.nl/sport/wielrennen\nFRA - France Televisions: https:/
+ /www.france.tv/sport/cyclisme/tour-de-france/\nGER - ARD / Sportschau: htt
+ ps://www.sportschau.de/radsport/tourdefrance\n\nSource data: official Tour
+  de France 2026 route and stage pages.
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf-2026-stage-21@gcal.local
+DTSTAMP:20260625T082538Z
+DTSTART:20260726T141500Z
+DTEND:20260726T173000Z
+SUMMARY:Tour de France Stage 21: Thoiry > Paris Champs-Élysées
+LOCATION:Thoiry > Paris Champs-Élysées
+URL:https://www.letour.fr/en/stage-21
+DESCRIPTION:Stage type: Flat\nDistance: 133 km\nElevation gain: 1000 m\nRac
+ e window: Neutralised start 16:15 - Expected arrival 19:30 (Europe/Paris)\
+ nWhy watch: Paris finale with Montmartre climbs before the Champs-Élysée
+ s finish.\nPoints sprint: Paris - Haut des Champs-Élysées (3e passage)\n
+ \nKey climbs:\n- Côte du Pavé des Gardes (Cat 4\, 0.7 km at 9.7%\, km 43
+ .1)\n- Côte de la Butte Montmartre x3 (Cat 4\, 1 km at 6.5%)\n\nOfficial 
+ stage: https://www.letour.fr/en/stage-21\nRace Center: https://racecenter.
+ letour.fr/en/livetracking/21\n\nBroadcasters:\nNLD - NOS: https://nos.nl/s
+ port/wielrennen\nFRA - France Televisions: https://www.france.tv/sport/cyc
+ lisme/tour-de-france/\nGER - ARD / Sportschau: https://www.sportschau.de/r
+ adsport/tourdefrance\n\nSource data: official Tour de France 2026 route an
+ d stage pages.
+END:VEVENT
+END:VCALENDAR
