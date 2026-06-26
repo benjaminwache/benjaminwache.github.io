@@ -6,9 +6,38 @@ METHOD:PUBLISH
 X-WR-CALNAME:Economics Conferences and CFPs
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
+UID:econconf-24th-zew-conference-economics-ict-conference@econ-conferences.
+ gcal.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260627
+SUMMARY:CONF: 24th ZEW Conference on the Economics of Information and Commu
+ nication Technologies
+DESCRIPTION:Organizer: ZEW - Leibniz Centre for European Economic Research\
+ nType: conference\nFit score: 4/5\nFit rationale: Relevant Germany-based p
+ roductivity and digital-economy conference\, especially for ICT\, AI\, fir
+ m innovation\, and growth links.\nTags: productivity\, ICT\, digital econo
+ my\, innovation\, Germany\n\nPrimary deadline: Full paper submission - 202
+ 6-02-25 (closed)\nDeadline notes: Official CFP lists ICT\, productivity an
+ d growth\, digital markets\, AI\, data\, innovation\, and labor-market top
+ ics\; submission deadline was 25 February 2026.\nDeadline link: https://ww
+ w.zew.de/fileadmin/FTP/veranstaltungen/ICT2026/CfP_ICT_2026.pdf\n\nMain li
+ nk: https://www.zew.de/en/events-and-professional-training/detail/24th-zew
+ -conference-on-the-economics-of-information-and-communication-technologies
+ /4711?cHash=b82b4c9c3e69b066efacf110b083e6a6\n\nSources:\n- https://www.ze
+ w.de/en/events-and-professional-training/detail/24th-zew-conference-on-the
+ -economics-of-information-and-communication-technologies/4711?cHash=b82b4c
+ 9c3e69b066efacf110b083e6a6\n- https://www.zew.de/fileadmin/FTP/veranstaltu
+ ngen/ICT2026/CfP_ICT_2026.pdf
+LOCATION:ZEW\, L 7\, 1\, Mannheim\, Germany
+URL:https://www.zew.de/en/events-and-professional-training/detail/24th-zew-
+ conference-on-the-economics-of-information-and-communication-technologies/
+ 4711?cHash=b82b4c9c3e69b066efacf110b083e6a6
+END:VEVENT
+BEGIN:VEVENT
 UID:econconf-kvs-nederlandse-economendag-2026-deadline-paper-submission@eco
  n-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:CFP: Nederlandse Economendag 2026 - Paper submission
@@ -25,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-the-economics-of-demographic-shocks-in-the-long-run-deadline-c
  v-title-and-500-word-abstract-submission@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:CFP: The Economics of Demographic Shocks in the Long Run - CV\, tit
@@ -47,9 +76,37 @@ LOCATION:Wageningen University\, Netherlands
 URL:https://cepr.org/events/economics-demographic-shocks-long-run
 END:VEVENT
 BEGIN:VEVENT
+UID:econconf-12th-bdf-boe-bdi-international-macroeconomics-workshop-deadlin
+ e-paper-submission@econ-conferences.gcal.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:CFP: 12th BdF-BoE-BdI International Macroeconomics Workshop: New Ri
+ sks in International Macro and Finance - Paper submission
+DESCRIPTION:Conference: 12th BdF-BoE-BdI International Macroeconomics Works
+ hop: New Risks in International Macro and Finance\nOrganizer: Banca d'Ital
+ ia\, Bank of England\, and Banque de France\nDeadline: Paper submission\nF
+ it score: 5/5\nFit rationale: Very strong fit for international macro/fina
+ nce and geoeconomics\, with explicit geopolitical\, AI\, currency\, sovere
+ ign-risk\, and global-imbalance themes.\nNotes: Official Banque de France 
+ and Bank of England pages list the 13 November 2026 London workshop and a 
+ 28 June 2026 CFP deadline\; topics include global imbalances\, geopolitica
+ l risks\, international financial system\, dominant currencies\, AI spillo
+ vers\, and sovereign risk.\nLink: https://www.banque-france.fr/en/events/1
+ 2th-bdf-boe-bdi-international-macroeconomics-workshop-new-risks-internatio
+ nal-macro-and-finance\n\nSources:\n- https://www.bankofengland.co.uk/event
+ s/2026/november/international-macroeconomics-workshop\n- https://www.banqu
+ e-france.fr/en/events/12th-bdf-boe-bdi-international-macroeconomics-worksh
+ op-new-risks-international-macro-and-finance\n- https://cebra.org/call-for
+ -papers-12th-bdf-boe-bdi-international-macroeconomics-worksho/
+LOCATION:Bank of England\, London\, United Kingdom
+URL:https://www.banque-france.fr/en/events/12th-bdf-boe-bdi-international-m
+ acroeconomics-workshop-new-risks-international-macro-and-finance
+END:VEVENT
+BEGIN:VEVENT
 UID:econconf-cepr-paris-symposium-2026-deadline-paper-submission@econ-confe
  rences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:CFP: CEPR Paris Symposium 2026 - Paper submission
@@ -69,7 +126,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-ecb-forum-central-banking-2026-conference@econ-conferences.gca
  l.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260702
 SUMMARY:CONF: ECB Forum on Central Banking 2026
@@ -92,7 +149,7 @@ BEGIN:VEVENT
 UID:econconf-bonn-oxford-european-commission-macro-workshop-uneven-impacts-
  of-geoeconomic-shi-deadline-full-paper-or-extended-abstract-submission@eco
  n-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:CFP: Bonn-Oxford-European Commission Macro Workshop: Uneven Impacts
@@ -117,7 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-cepr-mg-symposium-2026-deadline-paper-submission@econ-conferen
  ces.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:CFP: CEPR Macroeconomics and Growth Annual Symposium 2026 - Paper s
@@ -135,8 +192,33 @@ URL:https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium
  -2026
 END:VEVENT
 BEGIN:VEVENT
+UID:econconf-federal-reserve-day-ahead-conference-financial-markets-institu
+ tions-2027-deadline-paper-submission@econ-conferences.gcal.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:CFP: Federal Reserve Day-Ahead Conference on Financial Markets and 
+ Institutions - Paper submission
+DESCRIPTION:Conference: Federal Reserve Day-Ahead Conference on Financial M
+ arkets and Institutions\nOrganizer: Federal Reserve Board\nDeadline: Paper
+  submission\nFit score: 4/5\nFit rationale: Good financial economics and m
+ acro-finance fit from a Federal Reserve venue\, with policy-relevant finan
+ cial markets and institutions topics.\nNotes: CEBRA listing and public org
+ anizer posts state the 20th annual Federal Reserve Day-Ahead Conference is
+  on 6 January 2027 in Washington\, D.C.\, with papers due 30 June 2026\; t
+ opics include monetary policy\, financial stability\, banking regulation\,
+  household finance\, financial innovation\, AI\, crypto\, and global inter
+ connectedness.\nLink: https://cebra.org/call-for-papers-federal-reserve-da
+ y-ahead-conference-on-financial-markets-and-institutions/\n\nSources:\n- h
+ ttps://cebra.org/call-for-papers-federal-reserve-day-ahead-conference-on-f
+ inancial-markets-and-institutions/\n- https://cebra.org/news/
+LOCATION:Federal Reserve Board\, Washington\, D.C.\, USA
+URL:https://cebra.org/call-for-papers-federal-reserve-day-ahead-conference-
+ on-financial-markets-and-institutions/
+END:VEVENT
+BEGIN:VEVENT
 UID:econconf-sed-2026-athens-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260705
 SUMMARY:CONF: Society for Economic Dynamics Annual Meeting 2026
@@ -154,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-economics-of-talent-conference-deadline-paper-submission@
  econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
 SUMMARY:CFP: NBER Economics of Talent Conference - Paper submission
@@ -175,9 +257,36 @@ URL:https://www.nber.org/calls-papers-and-proposals/economics-talent-confer
  ence
 END:VEVENT
 BEGIN:VEVENT
+UID:econconf-fiw-wien-2026-conference@econ-conferences.gcal.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260711
+SUMMARY:CONF: Ninth Workshop on International Economic Networks (WIEN) 2026
+DESCRIPTION:Organizer: FIW - Research Centre International Economics and Un
+ iversity of Vienna\nType: conference\nFit score: 5/5\nFit rationale: Direc
+ t fit for international economics\, global value chains\, and economic geo
+ graphy\; strong match to Benjamin's FIW/trade/spatial interests.\nTags: in
+ ternational economics\, international trade\, global value chains\, econom
+ ic geography\, Europe\n\nPrimary deadline: Paper submission - 2026-03-15 (
+ closed)\nDeadline notes: Official CFP describes a two-day WIEN workshop at
+  the University of Vienna on international economics\, global value chains
+ \, and economic geography\; submission deadline was 15 March 2026.\nDeadli
+ ne link: https://www.fiw.ac.at/wp-content/uploads/2025/12/call-WIEN-2026.p
+ df\n\nMain link: https://www.fiw.ac.at/en/2025/12/12/call-for-papers-ninth
+ -workshop-on-international-economic-networks-wien/\n\nSources:\n- https://
+ www.fiw.ac.at/en/2025/12/12/call-for-papers-ninth-workshop-on-internationa
+ l-economic-networks-wien/\n- https://www.fiw.ac.at/wp-content/uploads/2025
+ /12/call-WIEN-2026.pdf\n- https://wiiw.ac.at/workshop-on-international-eco
+ nomic-networks-wien-2026-e-755.html
+LOCATION:University of Vienna\, Sky Lounge\, Oskar-Morgenstern-Platz 1\, Vi
+ enna\, Austria
+URL:https://www.fiw.ac.at/en/2025/12/12/call-for-papers-ninth-workshop-on-i
+ nternational-economic-networks-wien/
+END:VEVENT
+BEGIN:VEVENT
 UID:econconf-bis-hkimr-imf-global-interconnections-2026-conference@econ-con
  ferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260715
 SUMMARY:CONF: HKIMR-BIS-IMF Joint Conference on Global Interconnections and
@@ -199,7 +308,7 @@ URL:https://www.bis.org/events/cfp_260713-hkimr-bis-imf.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-si-2026-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260801
 SUMMARY:CONF: NBER Summer Institute 2026
@@ -223,7 +332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-bank-of-italy-cepr-eief-conference-on-innovation-and-finance-d
  eadline-complete-paper-submission@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 SUMMARY:CFP: Bank of Italy/CEPR/EIEF Conference on Innovation and Finance -
@@ -245,9 +354,33 @@ URL:https://cepr.org/events/bank-italycepreief-conference-innovation-and-fi
  nance
 END:VEVENT
 BEGIN:VEVENT
+UID:econconf-national-bank-of-slovakia-suerf-housing-markets-2026-deadline-
+ full-paper-submission@econ-conferences.gcal.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:CFP: National Bank of Slovakia / SUERF Conference: Housing markets 
+ - squaring supply and demand - Full paper submission
+DESCRIPTION:Conference: National Bank of Slovakia / SUERF Conference: Housi
+ ng markets - squaring supply and demand\nOrganizer: National Bank of Slova
+ kia and SUERF\nDeadline: Full paper submission\nFit score: 4/5\nFit ration
+ ale: Relevant central-bank macro-finance and macroprudential policy event\
+ ; secondary rather than core because the topic is housing-specific.\nNotes
+ : Official National Bank of Slovakia page lists a 15 July 2026 submission 
+ deadline for theoretical or empirical papers on fiscal\, monetary\, and ma
+ croprudential policy implications for housing affordability\, supply\, and
+  demand.\nLink: https://nbs.sk/o-narodnej-banke/konferencie-a-podujatia/ho
+ using-markets-squaring-supply-and-demand/\n\nSources:\n- https://nbs.sk/o-
+ narodnej-banke/konferencie-a-podujatia/housing-markets-squaring-supply-and
+ -demand/\n- https://www.suerf.org/events/
+LOCATION:Bratislava\, Slovakia
+URL:https://nbs.sk/o-narodnej-banke/konferencie-a-podujatia/housing-markets
+ -squaring-supply-and-demand/
+END:VEVENT
+BEGIN:VEVENT
 UID:econconf-narsc-2026-philadelphia-deadline-abstract-or-complete-session-
  submission@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:CFP: NARSC Annual Meeting 2026 - Abstract or complete-session submi
@@ -264,7 +397,7 @@ URL:https://www.narsc.org/newsite/conference/call-for-papers/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-eea-esem-2026-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260822
 SUMMARY:CONF: EEA-ESEM Congress 2026
@@ -283,7 +416,7 @@ URL:https://www.eea-esem-congresses.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-efa-2026-ghent-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260823
 SUMMARY:CONF: European Finance Association Annual Meeting 2026
@@ -300,7 +433,7 @@ URL:https://efa2026.efa-finance.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-ersa-2026-sofia-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260829
 SUMMARY:CONF: ERSA Congress 2026
@@ -321,7 +454,7 @@ BEGIN:VEVENT
 UID:econconf-29th-annual-research-conference-of-de-nederlandsche-bank-shock
  s-inequality-and-t-deadline-manuscript-submission@econ-conferences.gcal.lo
  cal
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:CFP: 29th Annual Research Conference of De Nederlandsche Bank: Shoc
@@ -351,7 +484,7 @@ URL:https://www.dnb.nl/en/research/dnb-research-conferences/annual-research
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-etsg-2026-exeter-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260913
 SUMMARY:CONF: ETSG Annual Conference 2026
@@ -368,7 +501,7 @@ URL:https://etsg.org/conferences/etsg-2026-exeter/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-vfs-2026-innsbruck-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260917
 SUMMARY:CONF: VfS Annual Conference 2026
@@ -387,7 +520,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-production-functions-2026-deadline-paper-submission@econ-
  conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:CFP: NBER Production Function Estimation and Its Applications to In
@@ -408,7 +541,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-5th-asb-banco-central-de-chile-cepr-ersa-workshop-on-macroecon
  omic-policy-in-eme-deadline-paper-submission@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:CFP: 5th ASB/Banco Central de Chile/CEPR/ERSA Workshop on Macroecon
@@ -435,7 +568,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-first-workshop-on-quantitative-trade-and-spatial-economics-dea
  dline-paper-submission-by-email@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:CFP: First Workshop on Quantitative Trade and Spatial Economics - P
@@ -458,7 +591,7 @@ URL:https://cepr.org/events/first-workshop-quantitative-trade-and-spatial-e
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-dgf-2026-duesseldorf-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260927
 SUMMARY:CONF: German Finance Association Annual Meeting 2026
@@ -476,7 +609,7 @@ URL:https://www.whu.edu/de/news-insights/events/dgf2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-uea-na-2026-chicago-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260927
 SUMMARY:CONF: Urban Economics Association North American Meeting 2026
@@ -495,7 +628,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-economics-of-talent-conference-conference@econ-conference
  s.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:CONF: NBER Economics of Talent Conference
@@ -517,9 +650,146 @@ URL:https://www.nber.org/calls-papers-and-proposals/economics-talent-confer
  ence
 END:VEVENT
 BEGIN:VEVENT
+UID:econconf-econdat-2026-fall-meeting-tokyo-conference@econ-conferences.gc
+ al.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261007
+SUMMARY:CONF: ECONDAT 2026 Fall Meeting
+DESCRIPTION:Organizer: Bank of Japan\, Banca d'Italia\, Federal Reserve Boa
+ rd\, Sveriges Riksbank\, Bank of Canada\, and CEBRA\nType: conference\nFit
+  score: 3/5\nFit rationale: Useful secondary fit through macro/financial e
+ conomics\, AI\, and nontraditional data methods\, despite being outside pr
+ iority geography.\nTags: macroeconomics\, financial economics\, AI\, data 
+ science\, central banking\n\nPrimary deadline: Paper submission - 2026-06-
+ 07 (closed)\nDeadline notes: Official Bank of Japan page lists a 7 June 20
+ 26 submission deadline for research on nontraditional data\, machine learn
+ ing\, NLP\, macroeconomics\, financial economics\, and central-bank data s
+ cience.\nDeadline link: https://www.boj.or.jp/en/about/release_2026/rel260
+ 326a.htm\n\nMain link: https://www.boj.or.jp/en/about/release_2026/rel2603
+ 26a.htm\n\nSources:\n- https://www.boj.or.jp/en/about/release_2026/rel2603
+ 26a.htm\n- https://www.bancaditalia.it/media/notizie/2026/cfp-boj-econdat-
+ fall-meeting-2026.pdf?language_id=1\n- https://cebra.org/call-for-papers-e
+ condat-2026-fall-meeting-tokyo/
+LOCATION:Bank of Japan\, Tokyo\, Japan
+URL:https://www.boj.or.jp/en/about/release_2026/rel260326a.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-2nd-conference-on-applied-macroeconomics-conference@econ-confe
+ rences.gcal.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261010
+SUMMARY:CONF: 2nd Conference on Applied Macroeconomics
+DESCRIPTION:Organizer: Bank of Canada\, Banca d'Italia\, and BI Norwegian B
+ usiness School\nType: conference\nFit score: 4/5\nFit rationale: Good appl
+ ied macro fit with explicit international spillovers\, trade/geopolitical 
+ fragmentation\, fiscal\, AI\, and macro-financial themes.\nTags: macroecon
+ omics\, international macroeconomics\, geoeconomics\, AI\, Europe\n\nPrima
+ ry deadline: Paper or extended abstract submission - 2026-05-22 (closed)\n
+ Deadline notes: Official CFP lists applied macro topics including global c
+ ommodity markets\, international spillovers\, exchange rates\, fiscal sust
+ ainability\, trade\, geopolitical fragmentation\, digital transition\, AI\
+ , and the macroeconomy.\nDeadline link: https://www.bancaditalia.it/media/
+ notizie/2026/Call_for_papers_2026_applied-macroeconomics.pdf?language_id=1
+ \n\nMain link: https://www.bancaditalia.it/media/notizia/2nd-conference-on
+ -applied-macroeconomics-call-for-papers/\n\nSources:\n- https://www.bancad
+ italia.it/media/notizia/2nd-conference-on-applied-macroeconomics-call-for-
+ papers/\n- https://eabcn.org/event/2nd-conference-applied-macroeconomics\n
+ - https://www.bancaditalia.it/media/notizie/2026/Call_for_papers_2026_appl
+ ied-macroeconomics.pdf?language_id=1\n- https://cebra.org/cfp-2nd-conferen
+ ce-on-applied-macroeconomics/
+LOCATION:Banca d'Italia\, Rome\, Italy
+URL:https://www.bancaditalia.it/media/notizia/2nd-conference-on-applied-mac
+ roeconomics-call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-escb-research-cluster-2-10th-annual-workshop-conference@econ-c
+ onferences.gcal.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261010
+SUMMARY:CONF: ESCB Research Cluster 2\, 10th Annual Workshop
+DESCRIPTION:Organizer: De Nederlandsche Bank and ESCB Research Cluster 2\nT
+ ype: conference\nFit score: 4/5\nFit rationale: Strong Netherlands and int
+ ernational-macro/geoeconomics fit\, with explicit trade fragmentation and 
+ competitiveness topics\, though participation is restricted.\nTags: intern
+ ational macroeconomics\, fiscal policy\, competitiveness\, geoeconomics\, 
+ Netherlands\n\nPrimary deadline: Draft paper or extended abstract submissi
+ on - 2026-05-31 (closed)\nDeadline notes: Official DNB CFP lists internati
+ onal macroeconomics\, fiscal policy\, labor economics\, competitiveness\, 
+ EMU governance\, international capital flows\, tariffs\, geopolitics\, tra
+ de fragmentation\, and industrial policy\; submissions are restricted to E
+ SCB and Bank of England researchers.\nDeadline link: https://www.dnb.nl/me
+ dia/jxend0t3/escb-research-cluster-2-cfp-2026.pdf\n\nMain link: https://ww
+ w.dnb.nl/en/research/dnb-research-conferences/other-conferences-and-worksh
+ ops/\n\nSources:\n- https://www.dnb.nl/en/research/dnb-research-conference
+ s/other-conferences-and-workshops/\n- https://www.dnb.nl/media/jxend0t3/es
+ cb-research-cluster-2-cfp-2026.pdf
+LOCATION:De Nederlandsche Bank\, Amsterdam\, Netherlands
+URL:https://www.dnb.nl/en/research/dnb-research-conferences/other-conferenc
+ es-and-workshops/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-sf-fed-3rd-annual-conference-macro-finance-research-conference
+ @econ-conferences.gcal.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:CONF: 3rd Annual Conference on Macro-Finance Research
+DESCRIPTION:Organizer: Federal Reserve Bank of San Francisco Center for Mon
+ etary Research\nType: conference\nFit score: 4/5\nFit rationale: Relevant 
+ macro-finance and monetary research conference from a Federal Reserve orga
+ nizer\, with direct links to financial markets and the macroeconomy.\nTags
+ : macro-finance\, financial economics\, monetary policy\, United States\n\
+ nPrimary deadline: Paper submission - 2026-06-15 (closed)\nDeadline notes:
+  Official SF Fed page lists a 15 June 2026 paper submission deadline for m
+ acro-finance research on links between financial markets\, monetary policy
+ \, and the macroeconomy.\nDeadline link: https://www.frbsf.org/news-and-me
+ dia/events/conferences/2026/10/conference-on-macro-finance-research-2026/\
+ n\nMain link: https://www.frbsf.org/news-and-media/events/conferences/2026
+ /10/conference-on-macro-finance-research-2026/\n\nSources:\n- https://www.
+ frbsf.org/news-and-media/events/conferences/2026/10/conference-on-macro-fi
+ nance-research-2026/\n- https://cepr.org/events/3rd-annual-conference-macr
+ o-finance-research
+LOCATION:San Francisco\, CA\, USA
+URL:https://www.frbsf.org/news-and-media/events/conferences/2026/10/confere
+ nce-on-macro-finance-research-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-15th-compnet-annual-conference-2026-conference@econ-conference
+ s.gcal.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261024
+SUMMARY:CONF: 15th CompNet Annual Conference: Reviving Productivity Growth 
+ in Europe
+DESCRIPTION:Organizer: IWH-CompNet\, European Commission DG ECFIN\, and CEP
+ R\nType: conference\nFit score: 5/5\nFit rationale: Excellent productivity
+  and firm-dynamics fit with European policy relevance and explicit GVC\, r
+ eshoring\, AI\, industrial-policy\, and competition themes.\nTags: product
+ ivity\, firm dynamics\, industrial policy\, global value chains\, Europe\n
+ \nPrimary deadline: Paper submission - 2026-05-30 (closed)\nDeadline notes
+ : Official IWH-CompNet page lists the conference at the European Commissio
+ n in Brussels on 22-23 October 2026 and a 30 May 2026 CFP deadline\; topic
+ s include productivity growth\, industrial policy\, competition\, firm dyn
+ amics\, GVCs\, reshoring\, AI\, and green/digital transitions.\nDeadline l
+ ink: https://www.iwh-halle.de/en/compnet/events/forthcoming/15th-annual-iw
+ h-compnet-conference\n\nMain link: https://cepr.org/events/15th-compnet-an
+ nual-conference-reviving-productivity-growth-europe-competition-industrial
+ \n\nSources:\n- https://cepr.org/events/15th-compnet-annual-conference-rev
+ iving-productivity-growth-europe-competition-industrial\n- https://www.iwh
+ -halle.de/en/compnet/events/forthcoming/15th-annual-iwh-compnet-conference
+ \n- https://inomics.com/conference/15th-annual-iwh-compnet-conference-2026
+ -1552792
+LOCATION:European Commission\, Brussels\, Belgium
+URL:https://cepr.org/events/15th-compnet-annual-conference-reviving-product
+ ivity-growth-europe-competition-industrial
+END:VEVENT
+BEGIN:VEVENT
 UID:econconf-kvs-nederlandse-economendag-2026-conference@econ-conferences.g
  cal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:CONF: Nederlandse Economendag 2026
@@ -538,7 +808,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-the-economics-of-demographic-shocks-in-the-long-run-conference
  @econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261031
 SUMMARY:CONF: The Economics of Demographic Shocks in the Long Run
@@ -562,7 +832,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-kiel-cepr-geoeconomics-2026-conference@econ-conferences.gcal.l
  ocal
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261105
 SUMMARY:CONF: 5th Kiel-CEPR Conference on Geoeconomics
@@ -584,9 +854,38 @@ URL:https://cepr.org/events/event-series/kiel-cepr-conference-geoeconomics/
  5th-kiel-cepr-conference-geoeconomics
 END:VEVENT
 BEGIN:VEVENT
+UID:econconf-global-research-forum-international-macroeconomics-finance-202
+ 6-conference@econ-conferences.gcal.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261105
+SUMMARY:CONF: Global Research Forum on International Macroeconomics and Fin
+ ance
+DESCRIPTION:Organizer: Federal Reserve Board\, European Central Bank\, and 
+ Federal Reserve Bank of New York\nType: conference\nFit score: 5/5\nFit ra
+ tionale: Very strong international macro/finance fit with capital flows\, 
+ exchange rates\, AI/productivity\, global imbalances\, and Fed/ECB/NY Fed 
+ organizers.\nTags: international macroeconomics\, international finance\, 
+ capital flows\, exchange rates\, United States\n\nPrimary deadline: Comple
+ te manuscript or extended abstract submission - 2026-05-31 (closed)\nDeadl
+ ine notes: Official Federal Reserve page lists submissions due 31 May 2026
+  and topics including capital flows\, exchange rates\, international finan
+ cial markets\, AI and international capital allocation\, productivity\, de
+ mographics\, and global imbalances.\nDeadline link: https://www.federalres
+ erve.gov/conferences/global-research-forum-on-international-macroeconomics
+ -and-finance.htm\n\nMain link: https://www.federalreserve.gov/conferences/
+ global-research-forum-on-international-macroeconomics-and-finance.htm\n\nS
+ ources:\n- https://www.federalreserve.gov/conferences/global-research-foru
+ m-on-international-macroeconomics-and-finance.htm\n- https://www.federalre
+ serve.gov/conferences.htm
+LOCATION:Federal Reserve Board\, Washington\, D.C.\, USA
+URL:https://www.federalreserve.gov/conferences/global-research-forum-on-int
+ ernational-macroeconomics-and-finance.htm
+END:VEVENT
+BEGIN:VEVENT
 UID:econconf-29th-annual-research-conference-of-de-nederlandsche-bank-shock
  s-inequality-and-t-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261112
 SUMMARY:CONF: 29th Annual Research Conference of De Nederlandsche Bank: Sho
@@ -617,7 +916,7 @@ URL:https://www.dnb.nl/en/research/dnb-research-conferences/annual-research
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-narsc-2026-philadelphia-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261115
 SUMMARY:CONF: NARSC Annual Meeting 2026
@@ -635,7 +934,7 @@ URL:https://www.narsc.org/newsite/conference/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-imf-jacques-polak-2026-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261114
 SUMMARY:CONF: 27th Jacques Polak Annual Research Conference
@@ -657,8 +956,64 @@ URL:https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacque
  s-polak-annual-research-conference
 END:VEVENT
 BEGIN:VEVENT
+UID:econconf-12th-bdf-boe-bdi-international-macroeconomics-workshop-confere
+ nce@econ-conferences.gcal.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:CONF: 12th BdF-BoE-BdI International Macroeconomics Workshop: New R
+ isks in International Macro and Finance
+DESCRIPTION:Organizer: Banca d'Italia\, Bank of England\, and Banque de Fra
+ nce\nType: conference\nFit score: 5/5\nFit rationale: Very strong fit for 
+ international macro/finance and geoeconomics\, with explicit geopolitical\
+ , AI\, currency\, sovereign-risk\, and global-imbalance themes.\nTags: int
+ ernational macroeconomics\, international finance\, geoeconomics\, AI\, Eu
+ rope\n\nPrimary deadline: Paper submission - 2026-06-28 (open)\nDeadline n
+ otes: Official Banque de France and Bank of England pages list the 13 Nove
+ mber 2026 London workshop and a 28 June 2026 CFP deadline\; topics include
+  global imbalances\, geopolitical risks\, international financial system\,
+  dominant currencies\, AI spillovers\, and sovereign risk.\nDeadline link:
+  https://www.banque-france.fr/en/events/12th-bdf-boe-bdi-international-mac
+ roeconomics-workshop-new-risks-international-macro-and-finance\n\nMain lin
+ k: https://www.bankofengland.co.uk/events/2026/november/international-macr
+ oeconomics-workshop\n\nSources:\n- https://www.bankofengland.co.uk/events/
+ 2026/november/international-macroeconomics-workshop\n- https://www.banque-
+ france.fr/en/events/12th-bdf-boe-bdi-international-macroeconomics-workshop
+ -new-risks-international-macro-and-finance\n- https://cebra.org/call-for-p
+ apers-12th-bdf-boe-bdi-international-macroeconomics-worksho/
+LOCATION:Bank of England\, London\, United Kingdom
+URL:https://www.bankofengland.co.uk/events/2026/november/international-macr
+ oeconomics-workshop
+END:VEVENT
+BEGIN:VEVENT
+UID:econconf-national-bank-of-slovakia-suerf-housing-markets-2026-conferenc
+ e@econ-conferences.gcal.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:CONF: National Bank of Slovakia / SUERF Conference: Housing markets
+  - squaring supply and demand
+DESCRIPTION:Organizer: National Bank of Slovakia and SUERF\nType: conferenc
+ e\nFit score: 4/5\nFit rationale: Relevant central-bank macro-finance and 
+ macroprudential policy event\; secondary rather than core because the topi
+ c is housing-specific.\nTags: macroeconomics\, financial economics\, housi
+ ng markets\, macroprudential policy\, Europe\n\nPrimary deadline: Full pap
+ er submission - 2026-07-15 (open)\nDeadline notes: Official National Bank 
+ of Slovakia page lists a 15 July 2026 submission deadline for theoretical 
+ or empirical papers on fiscal\, monetary\, and macroprudential policy impl
+ ications for housing affordability\, supply\, and demand.\nDeadline link: 
+ https://nbs.sk/o-narodnej-banke/konferencie-a-podujatia/housing-markets-sq
+ uaring-supply-and-demand/\n\nMain link: https://nbs.sk/o-narodnej-banke/ko
+ nferencie-a-podujatia/housing-markets-squaring-supply-and-demand/\n\nSourc
+ es:\n- https://nbs.sk/o-narodnej-banke/konferencie-a-podujatia/housing-mar
+ kets-squaring-supply-and-demand/\n- https://www.suerf.org/events/
+LOCATION:Bratislava\, Slovakia
+URL:https://nbs.sk/o-narodnej-banke/konferencie-a-podujatia/housing-markets
+ -squaring-supply-and-demand/
+END:VEVENT
+BEGIN:VEVENT
 UID:econconf-cepr-mg-symposium-2026-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261121
 SUMMARY:CONF: CEPR Macroeconomics and Growth Annual Symposium 2026
@@ -679,7 +1034,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-cbi-ucd-cepr-macro-finance-2026-conference@econ-conferences.gc
  al.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261202
 SUMMARY:CONF: Conference on Macro-Finance and Financial Stability Policies 
@@ -703,7 +1058,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-ecb-financial-stability-macroprudential-2026-conference@econ-c
  onferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261204
 SUMMARY:CONF: ECB Conference on Financial Stability and Macroprudential Pol
@@ -725,7 +1080,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-bonn-oxford-european-commission-macro-workshop-uneven-impacts-
  of-geoeconomic-shi-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
 SUMMARY:CONF: Bonn-Oxford-European Commission Macro Workshop: Uneven Impact
@@ -752,7 +1107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-cepr-paris-symposium-2026-conference@econ-conferences.gcal.loc
  al
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261209
 SUMMARY:CONF: CEPR Paris Symposium 2026
@@ -775,7 +1130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-production-functions-2026-conference@econ-conferences.gca
  l.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:CONF: NBER Production Function Estimation and Its Applications to I
@@ -798,7 +1153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-bank-of-italy-cepr-eief-conference-on-innovation-and-finance-c
  onference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261212
 SUMMARY:CONF: Bank of Italy/CEPR/EIEF Conference on Innovation and Finance
@@ -823,7 +1178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-first-workshop-on-quantitative-trade-and-spatial-economics-con
  ference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261219
 SUMMARY:CONF: First Workshop on Quantitative Trade and Spatial Economics
@@ -847,7 +1202,7 @@ URL:https://cepr.org/events/first-workshop-quantitative-trade-and-spatial-e
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-assa-2027-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270106
 SUMMARY:CONF: ASSA Annual Meeting 2027
@@ -864,7 +1219,7 @@ URL:https://www.aeaweb.org/conference/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-afa-2027-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270106
 SUMMARY:CONF: American Finance Association Annual Meeting 2027
@@ -880,9 +1235,37 @@ LOCATION:Washington\, DC\, USA
 URL:https://afajof.org/annual-meeting/
 END:VEVENT
 BEGIN:VEVENT
+UID:econconf-federal-reserve-day-ahead-conference-financial-markets-institu
+ tions-2027-conference@econ-conferences.gcal.local
+DTSTAMP:20260626T054012Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:CONF: Federal Reserve Day-Ahead Conference on Financial Markets and
+  Institutions
+DESCRIPTION:Organizer: Federal Reserve Board\nType: conference\nFit score: 
+ 4/5\nFit rationale: Good financial economics and macro-finance fit from a 
+ Federal Reserve venue\, with policy-relevant financial markets and institu
+ tions topics.\nTags: financial economics\, macro-finance\, financial marke
+ ts\, central banking\, United States\n\nPrimary deadline: Paper submission
+  - 2026-06-30 (open)\nDeadline notes: CEBRA listing and public organizer p
+ osts state the 20th annual Federal Reserve Day-Ahead Conference is on 6 Ja
+ nuary 2027 in Washington\, D.C.\, with papers due 30 June 2026\; topics in
+ clude monetary policy\, financial stability\, banking regulation\, househo
+ ld finance\, financial innovation\, AI\, crypto\, and global interconnecte
+ dness.\nDeadline link: https://cebra.org/call-for-papers-federal-reserve-d
+ ay-ahead-conference-on-financial-markets-and-institutions/\n\nMain link: h
+ ttps://cebra.org/call-for-papers-federal-reserve-day-ahead-conference-on-f
+ inancial-markets-and-institutions/\n\nSources:\n- https://cebra.org/call-f
+ or-papers-federal-reserve-day-ahead-conference-on-financial-markets-and-in
+ stitutions/\n- https://cebra.org/news/
+LOCATION:Federal Reserve Board\, Washington\, D.C.\, USA
+URL:https://cebra.org/call-for-papers-federal-reserve-day-ahead-conference-
+ on-financial-markets-and-institutions/
+END:VEVENT
+BEGIN:VEVENT
 UID:econconf-nber-spatial-spillovers-2027-deadline-paper-submission@econ-co
  nferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:CFP: NBER Spatial Spillovers from Transport Infrastructure Investme
@@ -902,7 +1285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-5th-asb-banco-central-de-chile-cepr-ersa-workshop-on-macroecon
  omic-policy-in-eme-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270116
 SUMMARY:CONF: 5th ASB/Banco Central de Chile/CEPR/ERSA Workshop on Macroeco
@@ -930,7 +1313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-spatial-spillovers-2027-conference@econ-conferences.gcal.
  local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270411
 SUMMARY:CONF: NBER Spatial Spillovers from Transport Infrastructure Investm
@@ -952,7 +1335,7 @@ URL:https://www.nber.org/calls-papers-and-proposals/spatial-spillovers-tran
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-uea-europe-2027-paris-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270529
 SUMMARY:CONF: Urban Economics Association European Meeting 2027
@@ -966,7 +1349,7 @@ URL:https://urbaneconomics.org/meetings/future.html
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-firs-2027-glasgow-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270606
 SUMMARY:CONF: FIRS Conference 2027
@@ -981,7 +1364,7 @@ URL:https://firsociety.org/conference/2027-conference/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-wfa-2027-indian-wells-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270701
 SUMMARY:CONF: Western Finance Association Meeting 2027
@@ -995,7 +1378,7 @@ URL:https://westernfinance.org/future/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-etsg-2027-conference@econ-conferences.gcal.local
-DTSTAMP:20260625T174432Z
+DTSTAMP:20260626T054012Z
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270912
 SUMMARY:CONF: ETSG Annual Conference 2027
