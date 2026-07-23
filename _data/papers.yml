@@ -1,15 +1,15 @@
 main:
 
-  - title: "Digital Chokepoints: The Geoeconomics of Telecom Networks, 1850-2025"
+  - title: "Digital Chokepoints"
     authors:
       - name: "Michael Porcellacchia"
         url: "https://sites.google.com/view/michael-porcellacchia/home"
       - name: "Christoph Trebesch"
         url: "https://sites.google.com/site/christophtrebesch/"
       - name: "Benjamin Wache"
-    pdf: "https://www.dropbox.com/scl/fi/4fs6ks3vkanjvdz5ze19u/draft_digital_chokepoints.pdf?rlkey=9vhk8q7w2pwo28fp6zl9kjhmn&st=gt232uak&dl=0"
-    date: "2025-06-01"
-    abstract: "Submarine cables are a vital infrastructure of the global economy, carrying over 95% of intercontinental data, from financial transactions to AI applications. Yet they are also highly vulnerable to sabotage, espionage, and sanctions. This paper presents the first systematic effort to map and quantify dependence, vulnerability, and hegemonic dominance in global telecom networks over 150 years. We produce the CableHist dataset, covering all international undersea cables — telegraph, telephone, and internet — from 1850 to 2025, as well as all satellites in orbit. Using a network traffic model, we estimate countries' dependence on foreign cables and their exposure to disruption. We find that hegemonic powers have long dominated telecom networks and that they repeatedly weaponized this control. We also show that geopolitical tensions trigger strategic—but economically redundant—investments aimed at increasing security and independence. Finally, we conduct scenario analysis showing how vulnerable today's undersea cable system is, with risks being particularly high in the East China Sea, the Mediterranean Sea, and the Indian Ocean."
+    pdf: ./assets/files/draft_digital_chokepoints.pdf
+    date_label: "July 2026"
+    abstract: "Global data flows sustain the digital economy, from AI and cloud computing to finance, yet they are routed through a network of just a few hundred physical subsea cables. The economic consequences of disrupting this critical infrastructure have never been quantified. We make three contributions to study vulnerability and strategic dependence in the global telecommunications network: (i) GlobeTel, a new dataset covering every international submarine telecom cable laid since 1850; (ii) a traffic-assignment model with endogenous congestion and rerouting; and (iii) sufficient statistics for the welfare costs of disruption requiring only observed flow shares and latency changes, validated against traceroutes, prices, and lit capacity. We find that global data flows are far more geographically concentrated than commonly understood, passing through the same maritime chokepoints that have shaped trade flows for centuries. Severing just 15 cables in the English Channel or off the US East Coast disrupts 20 to 25% of global data flows. Island economies such as Taiwan are particularly exposed, facing large potential welfare losses despite satellite access. Using our 175-year dataset, we also show that hegemons have long exploited network dominance for coercion and surveillance, and that cable investment responds systematically to geopolitical tensions."
 
   - title: "Information Flows and Global Capital Allocation: Evidence from the Telegraph"
     authors:

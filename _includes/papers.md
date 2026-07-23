@@ -57,8 +57,14 @@
             {% endif %}
           </div>
           <div class="periodical"><em>{{ link.conference }}</em>
-            {% if link.date %}
-              <div class="date"><em>Updated:</em> {{ link.date | date: "%B %d, %Y" }}</div>
+            {% if link.date_label or link.date %}
+              <div class="date"><em>Updated:</em>
+                {% if link.date_label %}
+                  {{ link.date_label }}
+                {% else %}
+                  {{ link.date | date: "%B %d, %Y" }}
+                {% endif %}
+              </div>
             {% endif %}
           </div>
           <div class="links">
