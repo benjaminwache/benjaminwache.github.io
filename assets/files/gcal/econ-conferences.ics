@@ -7,7 +7,7 @@ X-WR-CALNAME:Economics Conferences and CFPs
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
 UID:econconf-nber-si-2026-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260801
 SUMMARY:CONF: NBER Summer Institute 2026
@@ -30,7 +30,7 @@ URL:https://www.nber.org/summer-institute
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-eea-esem-2026-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260822
 SUMMARY:CONF: EEA-ESEM Congress 2026
@@ -49,7 +49,7 @@ URL:https://www.eea-esem-congresses.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-efa-2026-ghent-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260823
 SUMMARY:CONF: European Finance Association Annual Meeting 2026
@@ -66,7 +66,7 @@ URL:https://efa2026.efa-finance.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-ersa-2026-sofia-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260829
 SUMMARY:CONF: ERSA Congress 2026
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 UID:econconf-29th-annual-research-conference-of-de-nederlandsche-bank-shock
  s-inequality-and-t-deadline-manuscript-submission@econ-conferences.gcal.lo
  cal
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:CFP: 29th Annual Research Conference of De Nederlandsche Bank: Shoc
@@ -117,7 +117,7 @@ URL:https://www.dnb.nl/en/research/dnb-research-conferences/annual-research
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-etsg-2026-exeter-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260913
 SUMMARY:CONF: ETSG Annual Conference 2026
@@ -134,7 +134,7 @@ URL:https://etsg.org/conferences/etsg-2026-exeter/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-vfs-2026-innsbruck-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260917
 SUMMARY:CONF: VfS Annual Conference 2026
@@ -153,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-production-functions-2026-deadline-paper-submission@econ-
  conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:CFP: NBER Production Function Estimation and Its Applications to In
@@ -174,7 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-5th-asb-banco-central-de-chile-cepr-ersa-workshop-on-macroecon
  omic-policy-in-eme-deadline-paper-submission@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:CFP: 5th ASB/Banco Central de Chile/CEPR/ERSA Workshop on Macroecon
@@ -201,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-first-workshop-on-quantitative-trade-and-spatial-economics-dea
  dline-paper-submission-by-email@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:CFP: First Workshop on Quantitative Trade and Spatial Economics - P
@@ -224,7 +224,7 @@ URL:https://cepr.org/events/first-workshop-quantitative-trade-and-spatial-e
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-dgf-2026-duesseldorf-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260927
 SUMMARY:CONF: German Finance Association Annual Meeting 2026
@@ -242,7 +242,7 @@ URL:https://www.whu.edu/de/news-insights/events/dgf2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-uea-na-2026-chicago-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260927
 SUMMARY:CONF: Urban Economics Association North American Meeting 2026
@@ -261,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-economics-of-talent-conference-conference@econ-conference
  s.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:CONF: NBER Economics of Talent Conference
@@ -285,7 +285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-econdat-2026-fall-meeting-tokyo-conference@econ-conferences.gc
  al.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261007
 SUMMARY:CONF: ECONDAT 2026 Fall Meeting
@@ -310,7 +310,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-2nd-conference-on-applied-macroeconomics-conference@econ-confe
  rences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261010
 SUMMARY:CONF: 2nd Conference on Applied Macroeconomics
@@ -339,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-escb-research-cluster-2-10th-annual-workshop-conference@econ-c
  onferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261010
 SUMMARY:CONF: ESCB Research Cluster 2\, 10th Annual Workshop
@@ -366,7 +366,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-sf-fed-3rd-annual-conference-macro-finance-research-conference
  @econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:CONF: 3rd Annual Conference on Macro-Finance Research
@@ -392,7 +392,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-15th-compnet-annual-conference-2026-conference@econ-conference
  s.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261024
 SUMMARY:CONF: 15th CompNet Annual Conference: Reviving Productivity Growth 
@@ -422,7 +422,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-kvs-nederlandse-economendag-2026-conference@econ-conferences.g
  cal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:CONF: Nederlandse Economendag 2026
@@ -441,7 +441,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-the-economics-of-demographic-shocks-in-the-long-run-conference
  @econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261031
 SUMMARY:CONF: The Economics of Demographic Shocks in the Long Run
@@ -465,7 +465,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-kiel-cepr-geoeconomics-2026-conference@econ-conferences.gcal.l
  ocal
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261105
 SUMMARY:CONF: 5th Kiel-CEPR Conference on Geoeconomics
@@ -489,7 +489,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-global-research-forum-international-macroeconomics-finance-202
  6-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261105
 SUMMARY:CONF: Global Research Forum on International Macroeconomics and Fin
@@ -518,7 +518,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-29th-annual-research-conference-of-de-nederlandsche-bank-shock
  s-inequality-and-t-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261112
 SUMMARY:CONF: 29th Annual Research Conference of De Nederlandsche Bank: Sho
@@ -549,7 +549,7 @@ URL:https://www.dnb.nl/en/research/dnb-research-conferences/annual-research
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-narsc-2026-philadelphia-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261115
 SUMMARY:CONF: NARSC Annual Meeting 2026
@@ -567,7 +567,7 @@ URL:https://www.narsc.org/newsite/conference/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-imf-jacques-polak-2026-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261114
 SUMMARY:CONF: 27th Jacques Polak Annual Research Conference
@@ -591,7 +591,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-12th-bdf-boe-bdi-international-macroeconomics-workshop-confere
  nce@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:CONF: 12th BdF-BoE-BdI International Macroeconomics Workshop: New R
@@ -621,7 +621,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-national-bank-of-slovakia-suerf-housing-markets-2026-conferenc
  e@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:CONF: National Bank of Slovakia / SUERF Conference: Housing markets
@@ -646,7 +646,7 @@ URL:https://nbs.sk/o-narodnej-banke/konferencie-a-podujatia/housing-markets
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-cepr-mg-symposium-2026-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261121
 SUMMARY:CONF: CEPR Macroeconomics and Growth Annual Symposium 2026
@@ -667,7 +667,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-cbi-ucd-cepr-macro-finance-2026-conference@econ-conferences.gc
  al.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261202
 SUMMARY:CONF: Conference on Macro-Finance and Financial Stability Policies 
@@ -691,7 +691,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-ecb-financial-stability-macroprudential-2026-conference@econ-c
  onferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261204
 SUMMARY:CONF: ECB Conference on Financial Stability and Macroprudential Pol
@@ -713,7 +713,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-bonn-oxford-european-commission-macro-workshop-uneven-impacts-
  of-geoeconomic-shi-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
 SUMMARY:CONF: Bonn-Oxford-European Commission Macro Workshop: Uneven Impact
@@ -740,7 +740,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-cepr-paris-symposium-2026-conference@econ-conferences.gcal.loc
  al
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261209
 SUMMARY:CONF: CEPR Paris Symposium 2026
@@ -763,7 +763,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-production-functions-2026-conference@econ-conferences.gca
  l.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:CONF: NBER Production Function Estimation and Its Applications to I
@@ -786,7 +786,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-bank-of-italy-cepr-eief-conference-on-innovation-and-finance-c
  onference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261212
 SUMMARY:CONF: Bank of Italy/CEPR/EIEF Conference on Innovation and Finance
@@ -811,7 +811,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-first-workshop-on-quantitative-trade-and-spatial-economics-con
  ference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261219
 SUMMARY:CONF: First Workshop on Quantitative Trade and Spatial Economics
@@ -835,7 +835,7 @@ URL:https://cepr.org/events/first-workshop-quantitative-trade-and-spatial-e
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-assa-2027-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270106
 SUMMARY:CONF: ASSA Annual Meeting 2027
@@ -852,7 +852,7 @@ URL:https://www.aeaweb.org/conference/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-afa-2027-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270106
 SUMMARY:CONF: American Finance Association Annual Meeting 2027
@@ -870,7 +870,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-federal-reserve-day-ahead-conference-financial-markets-institu
  tions-2027-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:CONF: Federal Reserve Day-Ahead Conference on Financial Markets and
@@ -898,7 +898,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-spatial-spillovers-2027-deadline-paper-submission@econ-co
  nferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:CFP: NBER Spatial Spillovers from Transport Infrastructure Investme
@@ -918,7 +918,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-5th-asb-banco-central-de-chile-cepr-ersa-workshop-on-macroecon
  omic-policy-in-eme-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270116
 SUMMARY:CONF: 5th ASB/Banco Central de Chile/CEPR/ERSA Workshop on Macroeco
@@ -946,7 +946,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:econconf-nber-spatial-spillovers-2027-conference@econ-conferences.gcal.
  local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270411
 SUMMARY:CONF: NBER Spatial Spillovers from Transport Infrastructure Investm
@@ -968,7 +968,7 @@ URL:https://www.nber.org/calls-papers-and-proposals/spatial-spillovers-tran
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-uea-europe-2027-paris-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270529
 SUMMARY:CONF: Urban Economics Association European Meeting 2027
@@ -982,7 +982,7 @@ URL:https://urbaneconomics.org/meetings/future.html
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-firs-2027-glasgow-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270606
 SUMMARY:CONF: FIRS Conference 2027
@@ -997,7 +997,7 @@ URL:https://firsociety.org/conference/2027-conference/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-wfa-2027-indian-wells-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270701
 SUMMARY:CONF: Western Finance Association Meeting 2027
@@ -1011,7 +1011,7 @@ URL:https://westernfinance.org/future/
 END:VEVENT
 BEGIN:VEVENT
 UID:econconf-etsg-2027-conference@econ-conferences.gcal.local
-DTSTAMP:20260720T102035Z
+DTSTAMP:20260727T105030Z
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270912
 SUMMARY:CONF: ETSG Annual Conference 2027
