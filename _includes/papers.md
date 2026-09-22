@@ -16,7 +16,7 @@
           {% endif %}
         </div>
         <div class="col-sm-9 pub-row-text">
-          <div class="title" style="font-weight: bold;">{{ link.title }}</div>
+          <h3 class="title" style="font-weight: bold;">{{ link.title }}</h3>
           <div class="author">
             {% assign coauthors = "" %}
             {% assign solo_author = true %}
