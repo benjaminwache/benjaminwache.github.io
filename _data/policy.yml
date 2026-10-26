@@ -59,6 +59,7 @@ main:
       - name: "Benjamin Wache"
     conference: CPB Publication
     page: "https://www.cpb.nl/en/publication/dynamics-productivity-and-innovation-dutch-economy"
+    page_nl: "https://www.cpb.nl/publicatie/proces-van-creatieve-destructie-verzwakt-nederland"
     date: "2025-11-21"
 
   - title_en: "Dutch Firms in International Production Chains"
@@ -75,6 +76,7 @@ main:
       - name: "Benjamin Wache"
     conference: CPB Publication
     page: "https://www.cpb.nl/en/nederlandse-bedrijven-internationale-productieketens"
+    page_nl: "https://www.cpb.nl/nederlandse-bedrijven-internationale-productieketens"
     date: "2025-04-09"
 
   - title_nl: "Productiviteitsvoordelen van exportnetwerken"
@@ -104,6 +106,7 @@ main:
       - name: "Benjamin Wache"
     conference: CPB Publication
     page: "https://www.cpb.nl/en/geopolitical-decoupling-and-integration-scenarios-global-trade"
+    page_nl: "https://www.cpb.nl/geopolitieke-ontkoppelings-en-integratiescenarios-voor-de-wereldhandel"
     date: "2024-03-05"
     abstract: "CPB Publication (Dutch title: 'Geopolitieke ontkoppelings- en integratiescenario's voor de wereldhandel')"
 
@@ -123,6 +126,7 @@ main:
       - name: "Benjamin Wache"
     conference: CPB Publication
     page: "https://www.cpb.nl/en/importance-dutch-service-activities-global-value-chains-manufactured-goods"
+    page_nl: "https://www.cpb.nl/nederlandse-dienstenactiviteiten-globale-goederenproductie"
     date: "2024-02-13"
     abstract: "CPB Publication (Dutch title: 'Het belang van Nederlandse diensten in wereldwijde goederenproductie')"
 
@@ -134,7 +138,7 @@ main:
         url: "https://www.cpb.nl/staff/marco-ligthart"
       - name: "Benjamin Wache"
     conference: CPB Publication
-    page: "https://www.cpb.nl/en/node/161208"
+    page: "https://www.cpb.nl/wederuitvoer-motor-achter-stijging-nederlandse-export"
     date: "2023-08-29"
     abstract: "CPB Publication (English title: 'Re-exports drive rise in Dutch exports')"
 
@@ -154,5 +158,6 @@ main:
       - name: "Benjamin Wache"
     conference: CPB Publication
     page: "https://www.cpb.nl/en/a-simulation-of-energy-prices-and-corporate-profits"
+    page_nl: "https://www.cpb.nl/simulatie-energieprijzen-en-bedrijfswinsten"
     date: "2023-04-20"
     abstract: "CPB Publication (Dutch title: 'Simulatie energieprijzen en bedrijfswinsten')"
