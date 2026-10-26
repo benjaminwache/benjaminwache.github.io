@@ -1,5 +1,41 @@
 main:
 
+  - title_nl: "Diversificatie en importafhankelijkheden van Nederlandse bedrijven"
+    authors:
+      - name: "Merve Mavus Kütük"
+        url: "https://www.cpb.nl/en/staff/merve-mavus-kutuk"
+      - name: "Benjamin Wache"
+      - name: "Daan Freeman"
+        url: "https://www.cpb.nl/en/staff/daan-freeman"
+    conference: CPB Publication
+    page: "https://www.cpb.nl/publicatie/diversificatie-en-importafhankelijkheden-van-nederlandse-bedrijven"
+    date: "2026-09-29"
+
+  - title_nl: "De economische impact van hogere energieprijzen door de Iranoorlog"
+    authors:
+      - name: "Eva van der Wal"
+        url: "https://www.cpb.nl/en/staff/eva-van-der-wal"
+      - name: "Koen Kramer"
+        url: "https://www.cpb.nl/en/staff/koen-kramer"
+      - name: "Adam Kuczynski"
+        url: "https://www.cpb.nl/en/staff/adam-kuczynski"
+      - name: "Anna Huizinga"
+        url: "https://www.cpb.nl/en/staff/anna-huizinga"
+      - name: "Arjan Trinks"
+        url: "https://www.cpb.nl/en/staff/arjan-trinks"
+      - name: "Benjamin Wache"
+      - name: "Ika Deinum"
+        url: "https://www.cpb.nl/en/staff/ika-deinum"
+      - name: "Konstantin Sommer"
+        url: "https://kosommer.github.io/"
+      - name: "Marco Ligthart"
+        url: "https://www.cpb.nl/en/staff/marco-ligthart"
+      - name: "Merve Mavus Kütük"
+        url: "https://www.cpb.nl/en/staff/merve-mavus-kutuk"
+    conference: CPB Publication
+    page: "https://www.cpb.nl/publicatie/de-economische-impact-van-hogere-energieprijzen-door-de-iranoorlog"
+    date: "2026-04-16"
+
   - title_nl: "Arbeidsmarktonzekerheid in netwerken"
     authors:
       - name: "S. Vissers"
@@ -86,7 +122,7 @@ main:
         url: "https://kosommer.github.io/"
       - name: "Benjamin Wache"
     conference: CPB Publication
-    page: "https://www.cpb.nl/en/geopolitical-decoupling-and-integration-scenarios-global-trade"
+    page: "https://www.cpb.nl/en/importance-dutch-service-activities-global-value-chains-manufactured-goods"
     date: "2024-02-13"
     abstract: "CPB Publication (Dutch title: 'Het belang van Nederlandse diensten in wereldwijde goederenproductie')"
 
