@@ -38,7 +38,7 @@ main:
 
   - title_nl: "Arbeidsmarktonzekerheid in netwerken"
     authors:
-      - name: "S. Vissers"
+      - name: "Suzanne Vissers"
         url: "https://www.cpb.nl/en/staff/suzanne-vissers"
       - name: "Benjamin Wache"
     conference: CPB Publication
@@ -48,13 +48,13 @@ main:
   - title_en: "Dynamics, Productivity, and Innovation in the Dutch Economy"
     title_nl: "Proces van creatieve destructie verzwakt in Nederland"
     authors:
-      - name: "Y. Adema"
+      - name: "Yvonne Adema"
         url: "https://scholar.google.com/citations?user=OX5i-KcAAAAJ"
-      - name: "L. Bettendorf"
+      - name: "Leon Bettendorf"
         url: "https://www.cpb.nl/en/staff/leon-bettendorf"
-      - name: "E. van Bezooijen"
+      - name: "Emiel van Bezooijen"
         url: "https://www.cpb.nl/en/staff/emiel-van-bezooijen"
-      - name: "D. Freeman"
+      - name: "Daan Freeman"
         url: "https://www.cpb.nl/en/staff/daan-freeman"
       - name: "Benjamin Wache"
     conference: CPB Publication
@@ -71,7 +71,7 @@ main:
         url: "https://www.cpb.nl/en/staff/daan-freeman"
       - name: "Gerdien Meijerink"
         url: "https://www.cpb.nl/en/staff/gerdien-meijerink"
-      - name: "A. Sharipova"
+      - name: "Adelina Sharipova"
         url: "https://sites.google.com/view/adelinasharipova"
       - name: "Benjamin Wache"
     conference: CPB Publication
